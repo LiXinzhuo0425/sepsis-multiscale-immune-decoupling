@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or derived tables, please cite the archived release."
+title: "Public-data multiscale immune decoupling analysis in sepsis"
+version: "v0.1.0"
+date-released: "2026-06-14"
+authors:
+  - family-names: "Li"
+    given-names: "Xinzhuo"
+license: MIT
+repository-code: "https://github.com/LiXinzhuo0425/sepsis-multiscale-immune-decoupling"
+keywords:
+  - sepsis
+  - immune decoupling
+  - transcriptomics
+  - cytometry
+  - public data

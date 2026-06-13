@@ -1,0 +1,7 @@
+step_order,step,n,unit,source
+1,COMBAT public whole-blood RNA logCPM matrix,143,RNA samples,CBD-KEY-RNASEQ-WB Logcpm_143_23063.txt
+2,COMBAT genes in logCPM matrix,23063,genes,public COMBAT RNA archive
+3,Strict event-QC CyTOF samples with IDs,183,CyTOF rows,read-only FREE REACH strict event-QC output
+4,Matched biological RNA-CyTOF rows,129,participant-timepoint rows,shared base participant-timepoint ID
+5,Sepsis-only matched rows,40,participant-timepoint rows,analysis_group == Sepsis
+6,Sepsis participants,34,participants,COMBAT_ID

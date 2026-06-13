@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+*.zip
+*.tar
+*.tar.gz
+01_data/
+raw/
+cache/
+tmp/

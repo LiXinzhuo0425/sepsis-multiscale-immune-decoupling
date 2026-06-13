@@ -1,0 +1,9 @@
+signature,n_genes,genes,overlap_with_six_gene_panel,overlap_gene_count_with_six_gene_panel,overlap_with_mhcii_cd74_axis,implementation_note
+six_gene_panel,6,RETN;MCEMP1;CYP1B1;S100A12;S100A8;HK3,CYP1B1;HK3;MCEMP1;RETN;S100A12;S100A8,6,,Prespecified signature used for scoring and sensitivity analyses.
+mhcii_cd74_axis,11,CD74;HLA-DRA;HLA-DRB1;HLA-DRB5;HLA-DPA1;HLA-DPB1;HLA-DQA1;HLA-DQB1;HLA-DMA;HLA-DMB;CIITA,,0,CD74;CIITA;HLA-DMA;HLA-DMB;HLA-DPA1;HLA-DPB1;HLA-DQA1;HLA-DQB1;HLA-DRA;HLA-DRB1;HLA-DRB5,Prespecified signature used for scoring and sensitivity analyses.
+hla_dr_core_combat,3,HLA-DRA;HLA-DRB1;HLA-DRB5,,0,HLA-DRA;HLA-DRB1;HLA-DRB5,"COMBAT paired HLA-DR core uses HLA-DRA/HLA-DRB1/HLA-DRB5; bulk HLA-DR context score includes CIITA/CD74, recorded here to avoid hidden terminology drift."
+hla_dr_context_bulk,5,HLA-DRA;HLA-DRB1;HLA-DRB5;CIITA;CD74,,0,CD74;CIITA;HLA-DRA;HLA-DRB1;HLA-DRB5,"COMBAT paired HLA-DR core uses HLA-DRA/HLA-DRB1/HLA-DRB5; bulk HLA-DR context score includes CIITA/CD74, recorded here to avoid hidden terminology drift."
+myeloid_inflammatory,10,S100A8;S100A9;S100A12;IL1B;CXCL8;LCN2;RETN;TLR2;NFKBIA;FCGR1A,RETN;S100A12;S100A8,3,,Prespecified signature used for scoring and sensitivity analyses.
+interferon_antigen_presentation,10,STAT1;IRF1;IRF7;ISG15;IFI44L;OAS1;MX1;CXCL10;HLA-DRA;CD74,,0,CD74;HLA-DRA,Prespecified signature used for scoring and sensitivity analyses.
+immunometabolic_stress,7,HK3;HIF1A;LDHA;SLC2A3;PFKFB3;ENO1;ALDOA,HK3,1,,Prespecified signature used for scoring and sensitivity analyses.
+adaptive_t_cell_context,8,CD3D;CD3E;CD4;CD8A;IL7R;CCR7;LCK;TRAC,,0,,Prespecified signature used for scoring and sensitivity analyses.

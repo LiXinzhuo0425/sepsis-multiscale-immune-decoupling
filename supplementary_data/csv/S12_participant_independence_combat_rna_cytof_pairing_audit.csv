@@ -1,0 +1,6 @@
+analysis_group,n_rows,n_participants,n_repeated_participants,max_rows_per_participant,claim_boundary
+COVID_CRIT,18,18,0,1,participant-timepoint rows; repeated participants require sensitivity analysis
+COVID_MILD,25,24,1,2,participant-timepoint rows; repeated participants require sensitivity analysis
+COVID_SEV,38,30,6,3,participant-timepoint rows; repeated participants require sensitivity analysis
+HV,8,8,0,1,participant-timepoint rows; repeated participants require sensitivity analysis
+Sepsis,40,34,6,2,participant-timepoint rows; repeated participants require sensitivity analysis

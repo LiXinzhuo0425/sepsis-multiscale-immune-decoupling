@@ -1,0 +1,23 @@
+{
+  "title": "Public-data multiscale immune decoupling analysis in sepsis",
+  "upload_type": "software",
+  "description": "Journal-neutral code, derived supplementary tables, figures, and reproducibility metadata for a public-data computational analysis of multiscale immune-state decoupling in sepsis.",
+  "creators": [
+    {
+      "name": "Li, Xinzhuo",
+      "affiliation": ""
+    }
+  ],
+  "license": "mit-license",
+  "keywords": [
+    "sepsis",
+    "immune decoupling",
+    "transcriptomics",
+    "cytometry",
+    "public data",
+    "reproducibility"
+  ],
+  "related_identifiers": [],
+  "version": "v0.1.0",
+  "access_right": "open"
+}

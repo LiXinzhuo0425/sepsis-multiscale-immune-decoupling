@@ -1,0 +1,11 @@
+component,category,note
+README.md,public_release_metadata,journal-neutral repository overview
+CODE_AVAILABILITY.md,public_release_metadata,code availability and rerun boundary
+DATA_AVAILABILITY.md,public_release_metadata,public data and restricted-data exclusion statement
+environment.yml,software_environment,Python package pins used by packaging and figure-building steps
+requirements.txt,software_environment,pip-format package pins
+scripts/,analysis_scripts,analysis provenance scripts with local paths replaced by placeholders
+supplementary_data/csv/,derived_tables,formal supplementary source CSV tables
+supplementary_data/workbook/,derived_tables,consolidated supplementary workbook
+figures/,figure_outputs,vector and raster figure files
+metadata/public_release_manifest_sha256.csv,checksums,release file sizes and SHA-256 checksums

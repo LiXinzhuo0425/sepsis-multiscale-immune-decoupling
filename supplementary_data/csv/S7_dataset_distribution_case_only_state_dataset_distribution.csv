@@ -1,0 +1,22 @@
+accession,immune_state,N,dataset_n_case_complete,fraction
+GSE134347,Decoupled inflammatory / MHC-II-low,73,156,0.467948717948718
+GSE134347,Intermediate mixed,40,156,0.256410256410256
+GSE134347,MHC-II/adaptive preserved,43,156,0.275641025641026
+GSE154918,Decoupled inflammatory / MHC-II-low,18,39,0.461538461538462
+GSE154918,Intermediate mixed,10,39,0.256410256410256
+GSE154918,MHC-II/adaptive preserved,11,39,0.282051282051282
+GSE28750,Decoupled inflammatory / MHC-II-low,7,10,0.7
+GSE28750,Intermediate mixed,1,10,0.1
+GSE28750,MHC-II/adaptive preserved,2,10,0.2
+GSE32707,Decoupled inflammatory / MHC-II-low,17,48,0.354166666666667
+GSE32707,Intermediate mixed,18,48,0.375
+GSE32707,MHC-II/adaptive preserved,13,48,0.270833333333333
+GSE54514,Decoupled inflammatory / MHC-II-low,15,35,0.428571428571429
+GSE54514,Intermediate mixed,10,35,0.285714285714286
+GSE54514,MHC-II/adaptive preserved,10,35,0.285714285714286
+GSE65682,Decoupled inflammatory / MHC-II-low,78,192,0.40625
+GSE65682,Intermediate mixed,57,192,0.296875
+GSE65682,MHC-II/adaptive preserved,57,192,0.296875
+GSE69063,Decoupled inflammatory / MHC-II-low,13,19,0.68421052631579
+GSE69063,Intermediate mixed,2,19,0.105263157894737
+GSE69063,MHC-II/adaptive preserved,4,19,0.210526315789474

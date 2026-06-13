@@ -1,0 +1,22 @@
+accession,control_signature,n_requested,n_present,present_genes,rho_with_six_gene_panel,rho_with_mhcii_cd74_axis,claim_boundary
+GSE134347,housekeeping_like,8,5,GAPDH;RPLP0;HPRT1;TBP;HMBS,0.4319894225892921,0.1232690960902219,negative-control signature context; not a biological depletion claim
+GSE134347,erythrocyte_contamination,7,5,HBB;ALAS2;CA1;CA2;AHSP,-0.0428566253712961,-0.129948803400227,negative-control signature context; not a biological depletion claim
+GSE134347,platelet_contamination,7,7,PF4;PPBP;GP9;GP1BA;ITGA2B;NRGN;TUBB1,0.172021782704243,-0.2355478277669105,negative-control signature context; not a biological depletion claim
+GSE154918,housekeeping_like,8,8,ACTB;GAPDH;RPLP0;HPRT1;TBP;PGK1;PPIA;HMBS,0.747239819004525,-0.5672398190045248,negative-control signature context; not a biological depletion claim
+GSE154918,erythrocyte_contamination,7,7,HBB;HBA1;HBA2;ALAS2;CA1;CA2;AHSP,0.2461538461538461,-0.143076923076923,negative-control signature context; not a biological depletion claim
+GSE154918,platelet_contamination,7,7,PF4;PPBP;GP9;GP1BA;ITGA2B;NRGN;TUBB1,0.31710407239819,-0.2168325791855203,negative-control signature context; not a biological depletion claim
+GSE28750,housekeeping_like,8,8,ACTB;GAPDH;RPLP0;HPRT1;TBP;PGK1;PPIA;HMBS,0.4636363636363636,-0.4233766233766233,negative-control signature context; not a biological depletion claim
+GSE28750,erythrocyte_contamination,7,5,HBB;ALAS2;CA1;CA2;AHSP,0.0233766233766233,0.1389610389610389,negative-control signature context; not a biological depletion claim
+GSE28750,platelet_contamination,7,7,PF4;PPBP;GP9;GP1BA;ITGA2B;NRGN;TUBB1,0.2376623376623376,-0.1207792207792207,negative-control signature context; not a biological depletion claim
+GSE32707,housekeeping_like,8,8,ACTB;GAPDH;RPLP0;HPRT1;TBP;PGK1;PPIA;HMBS,0.4987212276214834,0.1188527584947022,negative-control signature context; not a biological depletion claim
+GSE32707,erythrocyte_contamination,7,7,HBB;HBA1;HBA2;ALAS2;CA1;CA2;AHSP,-0.1690171720862258,-0.1416149068322981,negative-control signature context; not a biological depletion claim
+GSE32707,platelet_contamination,7,7,PF4;PPBP;GP9;GP1BA;ITGA2B;NRGN;TUBB1,-0.1298867373036171,0.0998538545853123,negative-control signature context; not a biological depletion claim
+GSE54514,housekeeping_like,8,8,ACTB;GAPDH;RPLP0;HPRT1;TBP;PGK1;PPIA;HMBS,0.6411764705882353,-0.4204481792717087,negative-control signature context; not a biological depletion claim
+GSE54514,erythrocyte_contamination,7,6,HBB;HBA2;ALAS2;CA1;CA2;AHSP,-0.315406162464986,0.0725490196078431,negative-control signature context; not a biological depletion claim
+GSE54514,platelet_contamination,7,6,PPBP;GP9;GP1BA;ITGA2B;NRGN;TUBB1,-0.2296918767507003,0.3296918767507003,negative-control signature context; not a biological depletion claim
+GSE65682,housekeeping_like,8,8,ACTB;GAPDH;RPLP0;HPRT1;TBP;PGK1;PPIA;HMBS,0.5426601348504003,0.0876158870627897,negative-control signature context; not a biological depletion claim
+GSE65682,erythrocyte_contamination,7,4,ALAS2;CA1;CA2;AHSP,-0.2015634218289085,-0.1583038348082596,negative-control signature context; not a biological depletion claim
+GSE65682,platelet_contamination,7,7,PF4;PPBP;GP9;GP1BA;ITGA2B;NRGN;TUBB1,-0.0546755162241888,-0.1750705857564264,negative-control signature context; not a biological depletion claim
+GSE69063,housekeeping_like,8,8,ACTB;GAPDH;RPLP0;HPRT1;TBP;PGK1;PPIA;HMBS,0.5337561663143058,-0.3465821000704721,negative-control signature context; not a biological depletion claim
+GSE69063,erythrocyte_contamination,7,7,HBB;HBA1;HBA2;ALAS2;CA1;CA2;AHSP,0.0555320648343904,-0.0119802677942212,negative-control signature context; not a biological depletion claim
+GSE69063,platelet_contamination,7,7,PF4;PPBP;GP9;GP1BA;ITGA2B;NRGN;TUBB1,0.0988019732205778,-0.1661733615221987,negative-control signature context; not a biological depletion claim
