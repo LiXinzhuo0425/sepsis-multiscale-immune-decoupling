@@ -48,7 +48,7 @@ WITH_SUPP_OUT = ROOT / "00_FINAL_WORD/Frontiers_Immunology_V20_FI_SUBMISSION_WIT
 MAIN_ONLY_OUT = ROOT / "00_FINAL_WORD/Frontiers_Immunology_V20_FI_SUBMISSION_MAIN_TEXT_WITH_FIGURES.docx"
 
 DOCX_RENDERER = Path(
-    "<CODEX_HOME>/plugins/cache/openai-primary-runtime/documents/26.619.11828/skills/documents/render_docx.py"
+    "<CODEX_DOCUMENTS_RENDER_DOCX>"
 )
 SOFFICE_APP = Path("/Applications/LibreOffice.app/Contents/MacOS")
 

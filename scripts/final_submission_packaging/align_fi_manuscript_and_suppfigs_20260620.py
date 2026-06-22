@@ -42,7 +42,7 @@ ZIP_PATH = ROOT / "FI_submission_ready_20260620.zip"
 ORIGINAL_DOCX = ROOT / "00_FINAL_WORD/Frontiers_Immunology_V17_FINAL_TEXT_ONLY.docx"
 REVISED_DOCX = ROOT / "00_FINAL_WORD/Frontiers_Immunology_V18_FI_figure_aligned.docx"
 DOCX_RENDERER = Path(
-    "<CODEX_HOME>/plugins/cache/openai-primary-runtime/documents/26.619.11828/skills/documents/render_docx.py"
+    "<CODEX_DOCUMENTS_RENDER_DOCX>"
 )
 SOFFICE_APP = Path("/Applications/LibreOffice.app/Contents/MacOS")
 

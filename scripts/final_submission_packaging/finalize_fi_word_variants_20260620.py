@@ -42,7 +42,7 @@ WITH_SUPP_DOCX = ROOT / "00_FINAL_WORD/Frontiers_Immunology_V19_FI_SUBMISSION_WI
 MAIN_ONLY_DOCX = ROOT / "00_FINAL_WORD/Frontiers_Immunology_V19_FI_SUBMISSION_MAIN_TEXT_ONLY.docx"
 
 DOCX_RENDERER = Path(
-    "<CODEX_HOME>/plugins/cache/openai-primary-runtime/documents/26.619.11828/skills/documents/render_docx.py"
+    "<CODEX_DOCUMENTS_RENDER_DOCX>"
 )
 SOFFICE_APP = Path("/Applications/LibreOffice.app/Contents/MacOS")
 
@@ -447,7 +447,7 @@ def main() -> None:
             "https://www.frontiersin.org/journals/immunology/for-authors/submission-checklist",
         ],
         "doi_status": {
-            "doi": "https://doi.org/10.5281/zenodo.20682073",
+            "doi": "https://doi.org/10.5281/zenodo.20791871",
             "curl_head_checked": True,
             "status": "resolved_to_zenodo_record",
         },

@@ -1,5 +1,20 @@
 # Release Notes
 
+## v0.1.3 (20260622)
+
+- Synchronizes the public reproducibility repository with the final June 22
+  language and figure revision.
+- Updates Figure 1 source and raster exports after reducing figure-internal
+  CD3/CD14-centered wording and reframing the cytometry layer as a representative
+  residual co-event readout.
+- Adds final light-language-polish, AI-statement, revised package-manifest, and
+  zip-test QA records under `metadata/final_submission_revision_qa_20260622/`.
+- Adds the final revision and language-polish scripts used to generate the
+  revised upload package.
+- Keeps manuscript DOCX/PDF files, advisor-review files, and internal review
+  zips out of the public repository; only checksums and QA summaries are
+  retained.
+
 ## v0.1.2 (20260622)
 
 - Supersedes v0.1.1 as the clean citation target for submission.

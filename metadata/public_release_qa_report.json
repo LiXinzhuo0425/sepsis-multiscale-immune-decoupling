@@ -1,14 +1,11 @@
 {
   "date": "2026-06-22",
-  "release_version": "v0.1.2",
+  "release_version": "v0.1.3",
   "journal_neutral_public_metadata": true,
-  "file_count": 198,
-  "release_size_bytes": 52364954,
+  "file_count": 206,
+  "release_size_bytes": 53047735,
   "text_scan_hits": [],
+  "forbidden_path_hits": [],
   "large_files_over_50mb": [],
-  "notes": [
-    "Final manuscript DOCX/PDF files are not included; checksum and QA summaries are retained.",
-    "Local absolute paths are replaced by placeholders in text-like public files.",
-    "Zenodo v0.1.2 version DOI: 10.5281/zenodo.20791871."
-  ]
+  "manifest_sha256": "2c545dbce567e5dccf73b09a04ebf296259be2be32dfbe210f0142a703aea973"
 }

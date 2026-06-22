@@ -41,7 +41,7 @@ QA = OUT / "04_QA_and_manifests"
 ZIP_PATH = ROOT / "FI_submission_ready_20260620.zip"
 DOCX = ROOT / "00_FINAL_WORD/Frontiers_Immunology_V17_FINAL_TEXT_ONLY.docx"
 RENDER_DOCX = Path(
-    "<CODEX_HOME>/plugins/cache/openai-primary-runtime/documents/26.619.11828/skills/documents/render_docx.py"
+    "<CODEX_DOCUMENTS_RENDER_DOCX>"
 )
 
 DPI = 600
