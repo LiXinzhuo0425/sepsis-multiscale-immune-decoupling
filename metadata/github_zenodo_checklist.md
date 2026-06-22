@@ -4,7 +4,7 @@
 
 - Suggested repository name: `sepsis-multiscale-immune-decoupling`
 - Suggested visibility before manuscript submission: public after final review
-- Suggested release tag: `v0.1.1`
+- Suggested release tag: `v0.1.2`
 - Upload contents from this release directory, not the whole working project.
 - Do not upload `01_data/raw/`, `01_data/cache/`, `05_manuscript/` internal
   submission packages, local logs, or restricted-access notes.
@@ -12,7 +12,7 @@
 ## Zenodo
 
 - Suggested upload type: Software
-- Suggested version: `v0.1.1`
+- Suggested version: `v0.1.2`
 - Suggested title: `Public-data multiscale immune decoupling analysis in sepsis`
 - Use `.zenodo.json` as the metadata starting point.
 - Fill in author affiliation before publishing.

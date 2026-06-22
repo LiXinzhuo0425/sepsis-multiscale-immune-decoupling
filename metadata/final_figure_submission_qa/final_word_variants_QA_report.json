@@ -42,7 +42,7 @@
     "https://www.frontiersin.org/journals/immunology/for-authors/submission-checklist"
   ],
   "doi_status": {
-    "doi": "https://doi.org/10.5281/zenodo.20682074",
+    "doi": "https://doi.org/10.5281/zenodo.20682073",
     "curl_head_checked": true,
     "status": "resolved_to_zenodo_record"
   },
@@ -195,7 +195,7 @@
         {
           "paragraph": 87,
           "number": 1,
-          "context": "Code, derived aggregate tables, figure files, and reproducibility metadata supporting this study are available at Zenodo: https://doi.org/10.5281/zenodo.20682074. Public source datasets and accessions are listed in Suppl"
+          "context": "Code, derived aggregate tables, figure files, and reproducibility metadata supporting this study are available at Zenodo: https://doi.org/10.5281/zenodo.20682073. Public source datasets and accessions are listed in Suppl"
         }
       ]
     },
@@ -373,7 +373,7 @@
         {
           "paragraph": 87,
           "number": 1,
-          "context": "Code, derived aggregate tables, figure files, and reproducibility metadata supporting this study are available at Zenodo: https://doi.org/10.5281/zenodo.20682074. Public source datasets and accessions are listed in Suppl"
+          "context": "Code, derived aggregate tables, figure files, and reproducibility metadata supporting this study are available at Zenodo: https://doi.org/10.5281/zenodo.20682073. Public source datasets and accessions are listed in Suppl"
         }
       ]
     },

@@ -1,5 +1,13 @@
 # Release Notes
 
+## v0.1.2 (20260622)
+
+- Supersedes v0.1.1 as the clean citation target for submission.
+- Keeps the same finalized figures, supplementary figures, source-data tables,
+  packaging scripts, and QA manifests.
+- Cleans DOI metadata in repository citation files and final QA records so the
+  public archive does not point back to the superseded v0.1.0 DOI.
+
 ## v0.1.1 (20260622)
 
 - Synchronizes the public reproducibility repository with the finalized main

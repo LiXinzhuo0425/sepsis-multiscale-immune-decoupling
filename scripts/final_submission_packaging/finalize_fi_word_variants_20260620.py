@@ -447,7 +447,7 @@ def main() -> None:
             "https://www.frontiersin.org/journals/immunology/for-authors/submission-checklist",
         ],
         "doi_status": {
-            "doi": "https://doi.org/10.5281/zenodo.20682074",
+            "doi": "https://doi.org/10.5281/zenodo.20682073",
             "curl_head_checked": True,
             "status": "resolved_to_zenodo_record",
         },
