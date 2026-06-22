@@ -1,0 +1,5 @@
+canonical_claim,claim_level,allowed_wording,prohibited_wording
+Public bulk sepsis transcriptomes show inflammatory / MHC-II-CD74 decoupling,main_supported,"support, association, recurrent pattern",causal mechanism; validated biomarker; clinical utility
+COMBAT paired RNA-CyTOF links CD3/CD14 co-event abundance to MHC-II/HLA-DR RNA suppression in sepsis,main_exploratory_bridge,paired correlation-based bridge,causal chain; physical interaction; clinical model
+Residual CD3/CD14 co-events show activation-state remodeling,supportive_with_boundaries,residual event-state feature; activation-state remodeling,immune synapse; stable cell complex; uniform HLA-DR loss
+Death28 is directionally consistent with immune-paralysis model,exploratory_clinical_anchor,exploratory anchor; directionally consistent,prognostic biomarker; risk model; threshold; nomogram

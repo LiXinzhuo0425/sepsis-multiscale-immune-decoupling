@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="510.2pt" height="425.2pt" viewBox="0 0 510.2 425.2">
+<desc>Supplementary Figure S1. Evidence hierarchy and claim-boundary matrix. The schematic summarizes the ordered evidence layers and separates allowed association-only interpretations from excluded causal, structural, endotype, clinical-prediction and therapeutic claims.</desc>
+<defs>
+  <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+    <path d="M0,0 L7,3.5 L0,7 Z" fill="#8aa0b5"/>
+  </marker>
+  <style>
+    text { dominant-baseline: alphabetic; }
+  </style>
+</defs>
+<rect x="0" y="0" width="510.2" height="425.2" fill="#ffffff"/>
+<text x="18.0" y="25.0" font-family="Arial, Helvetica, sans-serif" font-size="13.2" font-weight="700" fill="#17212b" text-anchor="start">Supplementary Figure S1. Evidence hierarchy and claim-boundary matrix</text>
+<text x="18.0" y="43.0" font-family="Arial, Helvetica, sans-serif" font-size="7.8" font-weight="400" fill="#4b5966" text-anchor="start">Evidence layers are ordered by proximity to the manuscript claim; all claims remain association-only.</text>
+<rect x="18.0" y="58.0" width="230.0" height="304.0" rx="8.0" fill="#f7fafc" stroke="#d4dde6" stroke-width="1.0"/>
+<text x="30.0" y="78.0" font-family="Arial, Helvetica, sans-serif" font-size="10.0" font-weight="700" fill="#102a43" text-anchor="start">A  Evidence hierarchy</text>
+<rect x="30.0" y="93.0" width="206.0" height="36.0" rx="5.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<circle cx="45" cy="111.0" r="10.2" fill="#dceef7" stroke="#8bb7c7" stroke-width="1"/>
+<text x="45.0" y="114.0" font-family="Arial, Helvetica, sans-serif" font-size="8.0" font-weight="700" fill="#123b52" text-anchor="middle">1</text>
+<text x="61.0" y="107.0" font-family="Arial, Helvetica, sans-serif" font-size="7.8" font-weight="700" fill="#17212b" text-anchor="start">Public bulk RNA recurrence</text>
+<text x="61.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="6.2" font-weight="400" fill="#52616f" text-anchor="start">7 cohorts; 660 samples, 499 sepsis; recurrent</text>
+<text x="61.0" y="125.4" font-family="Arial, Helvetica, sans-serif" font-size="6.2" font-weight="400" fill="#52616f" text-anchor="start">inflammatory/MHC-II inverse coupling</text>
+<line x1="45.0" y1="129.0" x2="45.0" y2="136.0" stroke="#9fb3c8" stroke-width="1.0" marker-end="url(#arrow)"/>
+<rect x="30.0" y="136.0" width="206.0" height="36.0" rx="5.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<circle cx="45" cy="154.0" r="10.2" fill="#dceef7" stroke="#8bb7c7" stroke-width="1"/>
+<text x="45.0" y="157.0" font-family="Arial, Helvetica, sans-serif" font-size="8.0" font-weight="700" fill="#123b52" text-anchor="middle">2</text>
+<text x="61.0" y="150.0" font-family="Arial, Helvetica, sans-serif" font-size="7.8" font-weight="700" fill="#17212b" text-anchor="start">Case-only immune spectrum</text>
+<text x="61.0" y="161.0" font-family="Arial, Helvetica, sans-serif" font-size="6.2" font-weight="400" fill="#52616f" text-anchor="start">PC1 gradient 55.9%; k=3 descriptive; 221/499</text>
+<text x="61.0" y="168.4" font-family="Arial, Helvetica, sans-serif" font-size="6.2" font-weight="400" fill="#52616f" text-anchor="start">high-decoupling cases</text>
+<line x1="45.0" y1="172.0" x2="45.0" y2="179.0" stroke="#9fb3c8" stroke-width="1.0" marker-end="url(#arrow)"/>
+<rect x="30.0" y="179.0" width="206.0" height="36.0" rx="5.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<circle cx="45" cy="197.0" r="10.2" fill="#dceef7" stroke="#8bb7c7" stroke-width="1"/>
+<text x="45.0" y="200.0" font-family="Arial, Helvetica, sans-serif" font-size="8.0" font-weight="700" fill="#123b52" text-anchor="middle">3</text>
+<text x="61.0" y="193.0" font-family="Arial, Helvetica, sans-serif" font-size="7.8" font-weight="700" fill="#17212b" text-anchor="start">Raw-FCS hardening</text>
+<text x="61.0" y="204.0" font-family="Arial, Helvetica, sans-serif" font-size="6.2" font-weight="400" fill="#52616f" text-anchor="start">Residual CD3/CD14 signal; negative-pair,</text>
+<text x="61.0" y="211.4" font-family="Arial, Helvetica, sans-serif" font-size="6.2" font-weight="400" fill="#52616f" text-anchor="start">all-pair and QC sensitivity; specificity</text>
+<text x="61.0" y="218.8" font-family="Arial, Helvetica, sans-serif" font-size="6.2" font-weight="400" fill="#52616f" text-anchor="start">unresolved</text>
+<line x1="45.0" y1="215.0" x2="45.0" y2="222.0" stroke="#9fb3c8" stroke-width="1.0" marker-end="url(#arrow)"/>
+<rect x="30.0" y="222.0" width="206.0" height="36.0" rx="5.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<circle cx="45" cy="240.0" r="10.2" fill="#dceef7" stroke="#8bb7c7" stroke-width="1"/>
+<text x="45.0" y="243.0" font-family="Arial, Helvetica, sans-serif" font-size="8.0" font-weight="700" fill="#123b52" text-anchor="middle">4</text>
+<text x="61.0" y="236.0" font-family="Arial, Helvetica, sans-serif" font-size="7.8" font-weight="700" fill="#17212b" text-anchor="start">Paired COMBAT bridge</text>
+<text x="61.0" y="247.0" font-family="Arial, Helvetica, sans-serif" font-size="6.2" font-weight="400" fill="#52616f" text-anchor="start">129 matched rows; 40 sepsis-only rows from 34</text>
+<text x="61.0" y="254.4" font-family="Arial, Helvetica, sans-serif" font-size="6.2" font-weight="400" fill="#52616f" text-anchor="start">participants; paired association layer</text>
+<line x1="45.0" y1="258.0" x2="45.0" y2="265.0" stroke="#9fb3c8" stroke-width="1.0" marker-end="url(#arrow)"/>
+<rect x="30.0" y="265.0" width="206.0" height="36.0" rx="5.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<circle cx="45" cy="283.0" r="10.2" fill="#dceef7" stroke="#8bb7c7" stroke-width="1"/>
+<text x="45.0" y="286.0" font-family="Arial, Helvetica, sans-serif" font-size="8.0" font-weight="700" fill="#123b52" text-anchor="middle">5</text>
+<text x="61.0" y="279.0" font-family="Arial, Helvetica, sans-serif" font-size="7.8" font-weight="700" fill="#17212b" text-anchor="start">Context layers</text>
+<text x="61.0" y="290.0" font-family="Arial, Helvetica, sans-serif" font-size="6.2" font-weight="400" fill="#52616f" text-anchor="start">Donor-level single-cell and pathway context;</text>
+<text x="61.0" y="297.4" font-family="Arial, Helvetica, sans-serif" font-size="6.2" font-weight="400" fill="#52616f" text-anchor="start">plausibility support only</text>
+<line x1="45.0" y1="301.0" x2="45.0" y2="308.0" stroke="#9fb3c8" stroke-width="1.0" marker-end="url(#arrow)"/>
+<rect x="30.0" y="308.0" width="206.0" height="36.0" rx="5.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<circle cx="45" cy="326.0" r="10.2" fill="#dceef7" stroke="#8bb7c7" stroke-width="1"/>
+<text x="45.0" y="329.0" font-family="Arial, Helvetica, sans-serif" font-size="8.0" font-weight="700" fill="#123b52" text-anchor="middle">6</text>
+<text x="61.0" y="322.0" font-family="Arial, Helvetica, sans-serif" font-size="7.8" font-weight="700" fill="#17212b" text-anchor="start">Death28 anchor</text>
+<text x="61.0" y="333.0" font-family="Arial, Helvetica, sans-serif" font-size="6.2" font-weight="400" fill="#52616f" text-anchor="start">40 rows; 11 events; exploratory clinical</text>
+<text x="61.0" y="340.4" font-family="Arial, Helvetica, sans-serif" font-size="6.2" font-weight="400" fill="#52616f" text-anchor="start">anchor only</text>
+<rect x="263.0" y="58.0" width="229.0" height="304.0" rx="8.0" fill="#f7fafc" stroke="#d4dde6" stroke-width="1.0"/>
+<text x="275.0" y="78.0" font-family="Arial, Helvetica, sans-serif" font-size="10.0" font-weight="700" fill="#102a43" text-anchor="start">B  Claim-boundary matrix</text>
+<rect x="276.0" y="92.0" width="94.0" height="25.0" rx="5.0" fill="#e3f4ec" stroke="#96d4b7" stroke-width="1.0"/>
+<rect x="384.0" y="92.0" width="94.0" height="25.0" rx="5.0" fill="#fff0e8" stroke="#efb08b" stroke-width="1.0"/>
+<text x="323.0" y="108.0" font-family="Arial, Helvetica, sans-serif" font-size="8.5" font-weight="700" fill="#1f6f4a" text-anchor="middle">Allowed</text>
+<text x="431.0" y="108.0" font-family="Arial, Helvetica, sans-serif" font-size="8.5" font-weight="700" fill="#9a4d24" text-anchor="middle">Excluded</text>
+<rect x="276.0" y="118.0" width="94.0" height="25.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<rect x="384.0" y="118.0" width="94.0" height="25.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="283.0" y="131.0" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#264653" text-anchor="start">Cross-cohort</text>
+<text x="283.0" y="138.2" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#264653" text-anchor="start">recurrent association</text>
+<text x="391.0" y="131.0" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#6b3f2a" text-anchor="start">Causal mechanism</text>
+<rect x="276.0" y="152.0" width="94.0" height="25.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<rect x="384.0" y="152.0" width="94.0" height="25.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="283.0" y="165.0" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#264653" text-anchor="start">Matched public</text>
+<text x="283.0" y="172.2" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#264653" text-anchor="start">RNA-CyTOF bridge</text>
+<text x="391.0" y="165.0" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#6b3f2a" text-anchor="start">Physical CD3/CD14</text>
+<text x="391.0" y="172.2" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#6b3f2a" text-anchor="start">complex</text>
+<rect x="276.0" y="186.0" width="94.0" height="25.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<rect x="384.0" y="186.0" width="94.0" height="25.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="283.0" y="199.0" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#264653" text-anchor="start">Activation-state</text>
+<text x="283.0" y="206.2" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#264653" text-anchor="start">event context</text>
+<text x="391.0" y="199.0" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#6b3f2a" text-anchor="start">Validated clinical</text>
+<text x="391.0" y="206.2" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#6b3f2a" text-anchor="start">endotype</text>
+<rect x="276.0" y="220.0" width="94.0" height="25.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<rect x="384.0" y="220.0" width="94.0" height="25.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="283.0" y="233.0" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#264653" text-anchor="start">Computational</text>
+<text x="283.0" y="240.2" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#264653" text-anchor="start">spectrum</text>
+<text x="391.0" y="233.0" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#6b3f2a" text-anchor="start">Clinical prediction</text>
+<text x="391.0" y="240.2" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#6b3f2a" text-anchor="start">model</text>
+<rect x="276.0" y="254.0" width="94.0" height="25.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<rect x="384.0" y="254.0" width="94.0" height="25.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="283.0" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#264653" text-anchor="start">Exploratory clinical</text>
+<text x="283.0" y="274.2" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#264653" text-anchor="start">anchor</text>
+<text x="391.0" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#6b3f2a" text-anchor="start">Therapeutic</text>
+<text x="391.0" y="274.2" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#6b3f2a" text-anchor="start">recommendation</text>
+<rect x="276.0" y="314.0" width="202.0" height="32.0" rx="5.0" fill="#eef5ff" stroke="#b6c7df" stroke-width="1.0"/>
+<text x="286.0" y="329.0" font-family="Arial, Helvetica, sans-serif" font-size="6.5" font-weight="400" fill="#40566b" text-anchor="start">Use S1 as an audit map: it explains how the figures</text>
+<text x="286.0" y="336.4" font-family="Arial, Helvetica, sans-serif" font-size="6.5" font-weight="400" fill="#40566b" text-anchor="start">support a bounded interpretation but does not add a new</text>
+<text x="286.0" y="343.8" font-family="Arial, Helvetica, sans-serif" font-size="6.5" font-weight="400" fill="#40566b" text-anchor="start">analytical result.</text>
+<text x="18.0" y="389.0" font-family="Arial, Helvetica, sans-serif" font-size="6.6" font-weight="400" fill="#4b5966" text-anchor="start">Supplementary Figure S1. Evidence hierarchy and claim-boundary matrix.</text>
+<text x="18.0" y="400.0" font-family="Arial, Helvetica, sans-serif" font-size="6.6" font-weight="400" fill="#4b5966" text-anchor="start">Schematic separates allowed association-only interpretations from excluded causal, clinical and therapeutic claims.</text>
+</svg>

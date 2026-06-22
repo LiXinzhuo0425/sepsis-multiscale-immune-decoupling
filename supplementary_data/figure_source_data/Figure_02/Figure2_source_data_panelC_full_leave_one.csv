@@ -1,0 +1,17 @@
+pair,removed_accession,n_datasets_retained,median_rho,direction_consistency_fraction,fdr_lt_0_10_count,nominal_p_lt_0_05_count,claim_boundary,target_axis,removal_label,direction_preserved
+six_vs_hladr,NONE,7,-0.587394957983193,1,6,6,leave-one-cohort sensitivity; not an external validation test,HLA-DR,All cohorts,TRUE
+six_vs_hladr,GSE134347,6,-0.6012992889463475,1,5,5,leave-one-cohort sensitivity; not an external validation test,HLA-DR,Drop GSE134347,TRUE
+six_vs_hladr,GSE154918,6,-0.5270718995562824,1,5,5,leave-one-cohort sensitivity; not an external validation test,HLA-DR,Drop GSE154918,TRUE
+six_vs_hladr,GSE28750,6,-0.5270718995562824,1,5,5,leave-one-cohort sensitivity; not an external validation test,HLA-DR,Drop GSE28750,TRUE
+six_vs_hladr,GSE32707,6,-0.6012992889463475,1,6,6,leave-one-cohort sensitivity; not an external validation test,HLA-DR,Drop GSE32707,TRUE
+six_vs_hladr,GSE54514,6,-0.540976230519437,1,5,5,leave-one-cohort sensitivity; not an external validation test,HLA-DR,Drop GSE54514,TRUE
+six_vs_hladr,GSE65682,6,-0.6012992889463475,1,5,5,leave-one-cohort sensitivity; not an external validation test,HLA-DR,Drop GSE65682,TRUE
+six_vs_hladr,GSE69063,6,-0.5270718995562824,1,5,5,leave-one-cohort sensitivity; not an external validation test,HLA-DR,Drop GSE69063,TRUE
+six_vs_mhcii,NONE,7,-0.599439775910364,1,7,6,leave-one-cohort sensitivity; not an external validation test,MHC-II/CD74,All cohorts,TRUE
+six_vs_mhcii,GSE134347,6,-0.6125253178194355,1,6,5,leave-one-cohort sensitivity; not an external validation test,MHC-II/CD74,Drop GSE134347,TRUE
+six_vs_mhcii,GSE154918,6,-0.5493032212885155,1,6,5,leave-one-cohort sensitivity; not an external validation test,MHC-II/CD74,Drop GSE154918,TRUE
+six_vs_mhcii,GSE28750,6,-0.5493032212885155,1,6,5,leave-one-cohort sensitivity; not an external validation test,MHC-II/CD74,Drop GSE28750,TRUE
+six_vs_mhcii,GSE32707,6,-0.6125253178194355,1,6,6,leave-one-cohort sensitivity; not an external validation test,MHC-II/CD74,Drop GSE32707,TRUE
+six_vs_mhcii,GSE54514,6,-0.562388763197587,1,6,5,leave-one-cohort sensitivity; not an external validation test,MHC-II/CD74,Drop GSE54514,TRUE
+six_vs_mhcii,GSE65682,6,-0.6125253178194355,1,6,5,leave-one-cohort sensitivity; not an external validation test,MHC-II/CD74,Drop GSE65682,TRUE
+six_vs_mhcii,GSE69063,6,-0.5493032212885155,1,6,5,leave-one-cohort sensitivity; not an external validation test,MHC-II/CD74,Drop GSE69063,TRUE

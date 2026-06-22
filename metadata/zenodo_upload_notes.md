@@ -6,13 +6,15 @@ Recommended title:
 
 Public-data multiscale immune decoupling analysis in sepsis
 
-Recommended version: v0.1.0
+Recommended version: v0.1.1
 
 Recommended description:
 
-Journal-neutral code, derived supplementary tables, figures, and
-reproducibility metadata for a public-data computational analysis of multiscale
-immune-state decoupling in sepsis.
+Journal-neutral code, derived supplementary tables, final figure source files,
+and reproducibility metadata for a public-data computational analysis of
+multiscale immune-state decoupling in sepsis. Version v0.1.1 synchronizes the
+public reproducibility record with the finalized main figures, supplementary
+figures, source-data mappings, and QA manifests.
 
 Before publishing, confirm:
 

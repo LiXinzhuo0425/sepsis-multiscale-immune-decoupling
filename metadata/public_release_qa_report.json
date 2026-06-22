@@ -1,9 +1,13 @@
 {
-  "date": "2026-06-14",
-  "release_slug": "sepsis_multiscale_immune_decoupling_public_release_20260614",
+  "date": "2026-06-22",
+  "release_version": "v0.1.1",
   "journal_neutral_public_metadata": true,
+  "file_count": 198,
+  "release_size_bytes": 52364507,
   "text_scan_hits": [],
   "large_files_over_50mb": [],
-  "scanned_file_count_before_manifest": 102,
-  "release_size_bytes": 12673891
+  "notes": [
+    "Final manuscript DOCX/PDF files are not included; checksum and QA summaries are retained.",
+    "Local absolute paths are replaced by placeholders in text-like public files."
+  ]
 }

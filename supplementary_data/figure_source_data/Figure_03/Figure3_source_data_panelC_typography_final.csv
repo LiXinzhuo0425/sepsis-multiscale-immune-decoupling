@@ -1,0 +1,38 @@
+panel_element,accession,training_accession,is_training_cohort,ari_vs_original_k3,transferred_group,n_transferred_decoupled,feature,feature_label,median_signature_score
+Held-out ARI bar,GSE54514,GSE65682,FALSE,0.8389612063410233,NA,NA,NA,NA,NA
+Held-out ARI bar,GSE134347,GSE65682,FALSE,0.8874262595547653,NA,NA,NA,NA,NA
+Held-out ARI bar,GSE32707,GSE65682,FALSE,0.9314361719244424,NA,NA,NA,NA,NA
+Held-out ARI bar,GSE154918,GSE65682,FALSE,0.9400965246283316,NA,NA,NA,NA,NA
+Held-out ARI bar,GSE28750,GSE65682,FALSE,1,NA,NA,NA,NA,NA
+Held-out ARI bar,GSE69063,GSE65682,FALSE,1,NA,NA,NA,NA,NA
+Training reference ARI label,GSE65682,GSE65682,TRUE,0.9218943604814084,NA,NA,NA,NA,NA
+Transferred decoupled-group feature heatmap,GSE134347,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,74,six_gene_panel,Six-gene,0.7865488334999315
+Transferred decoupled-group feature heatmap,GSE134347,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,74,myeloid_inflammatory,Myeloid,0.527890807258929
+Transferred decoupled-group feature heatmap,GSE134347,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,74,immunometabolic_stress,Metabolic,0.6325022907443265
+Transferred decoupled-group feature heatmap,GSE134347,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,74,mhcii_cd74_axis,MHC-II,-0.6361800118718675
+Transferred decoupled-group feature heatmap,GSE134347,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,74,hla_dr_core,HLA-DR,-0.6801941183175815
+Transferred decoupled-group feature heatmap,GSE154918,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,18,six_gene_panel,Six-gene,0.850749315865993
+Transferred decoupled-group feature heatmap,GSE154918,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,18,myeloid_inflammatory,Myeloid,0.44892894075081446
+Transferred decoupled-group feature heatmap,GSE154918,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,18,immunometabolic_stress,Metabolic,0.8248966789921615
+Transferred decoupled-group feature heatmap,GSE154918,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,18,mhcii_cd74_axis,MHC-II,-0.815290396100825
+Transferred decoupled-group feature heatmap,GSE154918,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,18,hla_dr_core,HLA-DR,-0.721163831869189
+Transferred decoupled-group feature heatmap,GSE28750,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,7,six_gene_panel,Six-gene,0.700286196817122
+Transferred decoupled-group feature heatmap,GSE28750,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,7,myeloid_inflammatory,Myeloid,0.263470523158358
+Transferred decoupled-group feature heatmap,GSE28750,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,7,immunometabolic_stress,Metabolic,0.625814369038521
+Transferred decoupled-group feature heatmap,GSE28750,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,7,mhcii_cd74_axis,MHC-II,-0.662899624816491
+Transferred decoupled-group feature heatmap,GSE28750,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,7,hla_dr_core,HLA-DR,-0.712053875690999
+Transferred decoupled-group feature heatmap,GSE32707,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,16,six_gene_panel,Six-gene,0.6711806789148945
+Transferred decoupled-group feature heatmap,GSE32707,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,16,myeloid_inflammatory,Myeloid,0.301740113847563
+Transferred decoupled-group feature heatmap,GSE32707,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,16,immunometabolic_stress,Metabolic,0.6363518115591535
+Transferred decoupled-group feature heatmap,GSE32707,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,16,mhcii_cd74_axis,MHC-II,-0.357773685494822
+Transferred decoupled-group feature heatmap,GSE32707,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,16,hla_dr_core,HLA-DR,-0.320187800077694
+Transferred decoupled-group feature heatmap,GSE54514,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,14,six_gene_panel,Six-gene,0.5941272836133275
+Transferred decoupled-group feature heatmap,GSE54514,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,14,myeloid_inflammatory,Myeloid,0.220889095717284
+Transferred decoupled-group feature heatmap,GSE54514,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,14,immunometabolic_stress,Metabolic,0.7258055267067856
+Transferred decoupled-group feature heatmap,GSE54514,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,14,mhcii_cd74_axis,MHC-II,-0.499742848933526
+Transferred decoupled-group feature heatmap,GSE54514,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,14,hla_dr_core,HLA-DR,-0.5680051369875709
+Transferred decoupled-group feature heatmap,GSE69063,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,13,six_gene_panel,Six-gene,0.910981302288003
+Transferred decoupled-group feature heatmap,GSE69063,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,13,myeloid_inflammatory,Myeloid,0.514322509450528
+Transferred decoupled-group feature heatmap,GSE69063,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,13,immunometabolic_stress,Metabolic,0.824876243213664
+Transferred decoupled-group feature heatmap,GSE69063,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,13,mhcii_cd74_axis,MHC-II,-0.637278743755647
+Transferred decoupled-group feature heatmap,GSE69063,GSE65682,FALSE,NA,Decoupled inflammatory / MHC-II-low,13,hla_dr_core,HLA-DR,-0.642065447881851

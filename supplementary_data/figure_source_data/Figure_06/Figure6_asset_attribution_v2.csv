@@ -1,0 +1,4 @@
+asset_name,source_site,author_or_provider,license,original_file_or_page,local_file,modifications
+RNA expression module icon,Programmatic vector primitives,Local script,Project-generated; no third-party asset,make_fig6_working_interpretation.py,05_FIGURE6_WORKING_INTERPRETATION/make_fig6_working_interpretation.py,"Drawn as simple rounded rectangles, expression tiles, and RNA curve."
+CyTOF event cloud icon,Programmatic vector primitives,Local script,Project-generated; no third-party asset,make_fig6_working_interpretation.py,05_FIGURE6_WORKING_INTERPRETATION/make_fig6_working_interpretation.py,Drawn as generic event dots and a small cytometry gate inset; no cell-contact depiction.
+Marker-state lollipop glyphs,Programmatic vector primitives,Local script,Project-generated; no third-party asset,make_fig6_working_interpretation.py,05_FIGURE6_WORKING_INTERPRETATION/make_fig6_working_interpretation.py,Qualitative activation-state context only; no subset definition.

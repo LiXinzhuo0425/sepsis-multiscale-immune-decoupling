@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="510.2pt" height="425.2pt" viewBox="0 0 510.2 425.2">
+<desc>Supplementary Figure S2. Data-source and reproducibility traceability map. The schematic links public data layers, source tables, formal supplementary tables, figure exports, QA checks, checksums and the final upload-ready package without exposing private local paths.</desc>
+<defs>
+  <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+    <path d="M0,0 L7,3.5 L0,7 Z" fill="#8aa0b5"/>
+  </marker>
+  <style>
+    text { dominant-baseline: alphabetic; }
+  </style>
+</defs>
+<rect x="0" y="0" width="510.2" height="425.2" fill="#ffffff"/>
+<text x="18.0" y="25.0" font-family="Arial, Helvetica, sans-serif" font-size="13.2" font-weight="700" fill="#17212b" text-anchor="start">Supplementary Figure S2. Data-source and reproducibility traceability map</text>
+<text x="18.0" y="43.0" font-family="Arial, Helvetica, sans-serif" font-size="7.8" font-weight="400" fill="#4b5966" text-anchor="start">Traceability is shown as public/source layer to figure/table outputs to export QA and checksums.</text>
+<rect x="18.0" y="64.0" width="106.0" height="290.0" rx="8.0" fill="#eef7f6" stroke="#d4dde6" stroke-width="1.0"/>
+<text x="26.0" y="83.0" font-family="Arial, Helvetica, sans-serif" font-size="8.3" font-weight="700" fill="#102a43" text-anchor="start">A  Public/source layers</text>
+<rect x="144.0" y="64.0" width="106.0" height="290.0" rx="8.0" fill="#f7fafc" stroke="#d4dde6" stroke-width="1.0"/>
+<text x="152.0" y="83.0" font-family="Arial, Helvetica, sans-serif" font-size="8.3" font-weight="700" fill="#102a43" text-anchor="start">B  Source tables</text>
+<rect x="270.0" y="64.0" width="106.0" height="290.0" rx="8.0" fill="#fffaf0" stroke="#d4dde6" stroke-width="1.0"/>
+<text x="278.0" y="83.0" font-family="Arial, Helvetica, sans-serif" font-size="8.3" font-weight="700" fill="#102a43" text-anchor="start">C  Manuscript outputs</text>
+<rect x="396.0" y="64.0" width="96.0" height="290.0" rx="8.0" fill="#f5f1ff" stroke="#d4dde6" stroke-width="1.0"/>
+<text x="404.0" y="83.0" font-family="Arial, Helvetica, sans-serif" font-size="8.3" font-weight="700" fill="#102a43" text-anchor="start">D  QA package</text>
+<rect x="28.0" y="89.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="36.0" y="102.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">7 public bulk RNA</text>
+<text x="36.0" y="109.2" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">cohorts</text>
+<rect x="28.0" y="128.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="36.0" y="141.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">COMBAT paired</text>
+<text x="36.0" y="148.2" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">RNA-CyTOF</text>
+<rect x="28.0" y="167.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="36.0" y="180.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">Raw-FCS sensitivity</text>
+<text x="36.0" y="187.2" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">layer</text>
+<rect x="28.0" y="206.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="36.0" y="219.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">CELLxGENE/pathway</text>
+<text x="36.0" y="226.2" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">context</text>
+<rect x="28.0" y="245.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="36.0" y="258.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">Death28 exploratory</text>
+<text x="36.0" y="265.2" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">anchor</text>
+<rect x="154.0" y="89.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="162.0" y="102.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">Dataset inventory and</text>
+<text x="162.0" y="109.2" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">inclusion audit</text>
+<rect x="154.0" y="128.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="162.0" y="141.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">Figure source-data</text>
+<text x="162.0" y="148.2" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">index</text>
+<rect x="154.0" y="167.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="162.0" y="180.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">Cytometry and raw-FCS</text>
+<text x="162.0" y="187.2" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">controls</text>
+<rect x="154.0" y="206.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="162.0" y="219.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">COMBAT robustness</text>
+<text x="162.0" y="226.2" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">tables</text>
+<rect x="154.0" y="245.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.0"/>
+<text x="162.0" y="258.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#334e68" text-anchor="start">Claim-boundary ledger</text>
+<rect x="280.0" y="89.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#e5d2a4" stroke-width="1.0"/>
+<text x="288.0" y="102.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#594a2e" text-anchor="start">Main Figures 1-6</text>
+<rect x="280.0" y="128.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#e5d2a4" stroke-width="1.0"/>
+<text x="288.0" y="141.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#594a2e" text-anchor="start">Supplementary Figures</text>
+<text x="288.0" y="148.2" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#594a2e" text-anchor="start">S1-S2</text>
+<rect x="280.0" y="167.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#e5d2a4" stroke-width="1.0"/>
+<text x="288.0" y="180.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#594a2e" text-anchor="start">Supplementary Tables</text>
+<text x="288.0" y="187.2" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#594a2e" text-anchor="start">S1-S22</text>
+<rect x="280.0" y="206.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#e5d2a4" stroke-width="1.0"/>
+<text x="288.0" y="219.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#594a2e" text-anchor="start">Revised clean DOCX</text>
+<rect x="280.0" y="245.0" width="84.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#e5d2a4" stroke-width="1.0"/>
+<text x="288.0" y="258.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#594a2e" text-anchor="start">Vector backups</text>
+<rect x="405.0" y="89.0" width="76.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#cabffd" stroke-width="1.0"/>
+<text x="413.0" y="102.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#4c3d73" text-anchor="start">RGB TIFF, 600 dpi</text>
+<rect x="405.0" y="128.0" width="76.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#cabffd" stroke-width="1.0"/>
+<text x="413.0" y="141.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#4c3d73" text-anchor="start">PDF/EPS/SVG backup</text>
+<rect x="405.0" y="167.0" width="76.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#cabffd" stroke-width="1.0"/>
+<text x="413.0" y="180.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#4c3d73" text-anchor="start">No embedded raster</text>
+<text x="413.0" y="187.2" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#4c3d73" text-anchor="start">in S1/S2</text>
+<rect x="405.0" y="206.0" width="76.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#cabffd" stroke-width="1.0"/>
+<text x="413.0" y="219.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#4c3d73" text-anchor="start">SHA256 manifests</text>
+<rect x="405.0" y="245.0" width="76.0" height="24.0" rx="4.0" fill="#ffffff" stroke="#cabffd" stroke-width="1.0"/>
+<text x="413.0" y="258.0" font-family="Arial, Helvetica, sans-serif" font-size="6.3" font-weight="400" fill="#4c3d73" text-anchor="start">Final zip test</text>
+<line x1="116.0" y1="101.0" x2="143.0" y2="101.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="242.0" y1="101.0" x2="269.0" y2="101.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="368.0" y1="101.0" x2="395.0" y2="101.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="116.0" y1="140.0" x2="143.0" y2="140.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="242.0" y1="140.0" x2="269.0" y2="140.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="368.0" y1="140.0" x2="395.0" y2="140.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="116.0" y1="179.0" x2="143.0" y2="179.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="242.0" y1="179.0" x2="269.0" y2="179.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="368.0" y1="179.0" x2="395.0" y2="179.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="116.0" y1="218.0" x2="143.0" y2="218.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="242.0" y1="218.0" x2="269.0" y2="218.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="368.0" y1="218.0" x2="395.0" y2="218.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="116.0" y1="257.0" x2="143.0" y2="257.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="242.0" y1="257.0" x2="269.0" y2="257.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="368.0" y1="257.0" x2="395.0" y2="257.0" stroke="#8aa0b5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="28.0" y="313.0" width="453.0" height="27.0" rx="5.0" fill="#ffffff" stroke="#d4dde6" stroke-width="1.0"/>
+<text x="38.0" y="329.0" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#40566b" text-anchor="start">All displayed labels use public accession-level or package-level descriptors; private</text>
+<text x="38.0" y="336.3" font-family="Arial, Helvetica, sans-serif" font-size="6.4" font-weight="400" fill="#40566b" text-anchor="start">absolute paths are intentionally omitted from the graphic.</text>
+<text x="18.0" y="389.0" font-family="Arial, Helvetica, sans-serif" font-size="6.6" font-weight="400" fill="#4b5966" text-anchor="start">Supplementary Figure S2. Data-source and reproducibility traceability map.</text>
+<text x="18.0" y="400.0" font-family="Arial, Helvetica, sans-serif" font-size="6.6" font-weight="400" fill="#4b5966" text-anchor="start">Schematic links public/source layers to figure outputs, QA checks, checksums and the upload-ready package.</text>
+</svg>

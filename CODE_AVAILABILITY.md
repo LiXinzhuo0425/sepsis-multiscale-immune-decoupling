@@ -1,8 +1,9 @@
 # Code Availability
 
-Analysis and provenance scripts are available in `scripts/`. The public release
-copy removes local absolute paths and does not include target-journal formatting
-builders, cover letters, or internal submission drafts.
+Analysis and provenance scripts are available in `scripts/`. Final packaging
+scripts used to assemble the figure-aligned submission materials are retained in
+`scripts/final_submission_packaging/`. The public release copy removes local
+absolute paths and does not include cover letters or internal submission drafts.
 
 The scripts were written for an audited local workflow. To rerun the full
 analysis, update the placeholder roots in the scripts or adapt them to your own

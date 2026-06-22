@@ -1,0 +1,189 @@
+{
+  "generated_at": "2026-06-22T13:14:00",
+  "created": [
+    {
+      "source": "00_FINAL_WORD/Frontiers_Immunology_V19_FI_SUBMISSION_WITH_SUPPLEMENTARY.docx",
+      "output": "00_FINAL_WORD/Frontiers_Immunology_V20_FI_SUBMISSION_WITH_FIGURES_AND_SUPPLEMENTARY.docx",
+      "inserted": [
+        {
+          "caption": "Figure 1.",
+          "image": "06_FI_SUBMISSION_READY_20260620/02_vector_backup/Figure_01_600dpi.png",
+          "width_in": 6.25
+        },
+        {
+          "caption": "Figure 2.",
+          "image": "06_FI_SUBMISSION_READY_20260620/02_vector_backup/Figure_02_600dpi.png",
+          "width_in": 6.25
+        },
+        {
+          "caption": "Figure 3.",
+          "image": "06_FI_SUBMISSION_READY_20260620/02_vector_backup/Figure_03_600dpi.png",
+          "width_in": 6.25
+        },
+        {
+          "caption": "Figure 4.",
+          "image": "06_FI_SUBMISSION_READY_20260620/02_vector_backup/Figure_04_600dpi.png",
+          "width_in": 6.25
+        },
+        {
+          "caption": "Figure 5.",
+          "image": "06_FI_SUBMISSION_READY_20260620/02_vector_backup/Figure_05_600dpi.png",
+          "width_in": 5.65
+        },
+        {
+          "caption": "Figure 6.",
+          "image": "06_FI_SUBMISSION_READY_20260620/02_vector_backup/Figure_06_600dpi.png",
+          "width_in": 6.25
+        },
+        {
+          "caption": "Supplementary Figure S1.",
+          "image": "06_FI_SUBMISSION_READY_20260620/02_vector_backup/Supplementary_Figure_S1_600dpi.png",
+          "width_in": 6.25
+        },
+        {
+          "caption": "Supplementary Figure S2.",
+          "image": "06_FI_SUBMISSION_READY_20260620/02_vector_backup/Supplementary_Figure_S2_600dpi.png",
+          "width_in": 6.25
+        }
+      ]
+    },
+    {
+      "source": "00_FINAL_WORD/Frontiers_Immunology_V19_FI_SUBMISSION_MAIN_TEXT_ONLY.docx",
+      "output": "00_FINAL_WORD/Frontiers_Immunology_V20_FI_SUBMISSION_MAIN_TEXT_WITH_FIGURES.docx",
+      "inserted": [
+        {
+          "caption": "Figure 1.",
+          "image": "06_FI_SUBMISSION_READY_20260620/02_vector_backup/Figure_01_600dpi.png",
+          "width_in": 6.25
+        },
+        {
+          "caption": "Figure 2.",
+          "image": "06_FI_SUBMISSION_READY_20260620/02_vector_backup/Figure_02_600dpi.png",
+          "width_in": 6.25
+        },
+        {
+          "caption": "Figure 3.",
+          "image": "06_FI_SUBMISSION_READY_20260620/02_vector_backup/Figure_03_600dpi.png",
+          "width_in": 6.25
+        },
+        {
+          "caption": "Figure 4.",
+          "image": "06_FI_SUBMISSION_READY_20260620/02_vector_backup/Figure_04_600dpi.png",
+          "width_in": 6.25
+        },
+        {
+          "caption": "Figure 5.",
+          "image": "06_FI_SUBMISSION_READY_20260620/02_vector_backup/Figure_05_600dpi.png",
+          "width_in": 5.65
+        },
+        {
+          "caption": "Figure 6.",
+          "image": "06_FI_SUBMISSION_READY_20260620/02_vector_backup/Figure_06_600dpi.png",
+          "width_in": 6.25
+        }
+      ]
+    }
+  ],
+  "structural_QA": [
+    {
+      "docx": "00_FINAL_WORD/Frontiers_Immunology_V20_FI_SUBMISSION_WITH_FIGURES_AND_SUPPLEMENTARY.docx",
+      "sha256": "35e074242cc10650c59698b4546b8a49a3c32cb11b3ae5e01316f3720fe4c5e8",
+      "paragraph_count": 307,
+      "table_count": 52,
+      "legend_counts": {
+        "Figure 1": 1,
+        "Figure 2": 1,
+        "Figure 3": 1,
+        "Figure 4": 1,
+        "Figure 5": 1,
+        "Figure 6": 1,
+        "Supplementary Figure S1": 1,
+        "Supplementary Figure S2": 1
+      },
+      "expected_embedded_figures": 8,
+      "drawing_elements": 8,
+      "inline_or_anchor_elements": 8,
+      "media_files": [
+        "word/media/image1.png",
+        "word/media/image2.png",
+        "word/media/image3.png",
+        "word/media/image4.png",
+        "word/media/image5.png",
+        "word/media/image6.png",
+        "word/media/image7.png",
+        "word/media/image8.png"
+      ],
+      "media_count": 8,
+      "tracked_change_tags": 0,
+      "comments_parts": [],
+      "embedded_figure_count_pass": true,
+      "comments_pass": true,
+      "tracked_changes_pass": true
+    },
+    {
+      "docx": "00_FINAL_WORD/Frontiers_Immunology_V20_FI_SUBMISSION_MAIN_TEXT_WITH_FIGURES.docx",
+      "sha256": "026b0ffb66a03d45fda9b05ce6d148e4ebb2eac91089bf2382479b7cdfb3ef87",
+      "paragraph_count": 180,
+      "table_count": 5,
+      "legend_counts": {
+        "Figure 1": 1,
+        "Figure 2": 1,
+        "Figure 3": 1,
+        "Figure 4": 1,
+        "Figure 5": 1,
+        "Figure 6": 1,
+        "Supplementary Figure S1": 0,
+        "Supplementary Figure S2": 0
+      },
+      "expected_embedded_figures": 6,
+      "drawing_elements": 6,
+      "inline_or_anchor_elements": 6,
+      "media_files": [
+        "word/media/image1.png",
+        "word/media/image2.png",
+        "word/media/image3.png",
+        "word/media/image4.png",
+        "word/media/image5.png",
+        "word/media/image6.png"
+      ],
+      "media_count": 6,
+      "tracked_change_tags": 0,
+      "comments_parts": [],
+      "embedded_figure_count_pass": true,
+      "comments_pass": true,
+      "tracked_changes_pass": true
+    }
+  ],
+  "render_QA": [
+    {
+      "variant": "v20_with_figures_and_supplementary",
+      "attempted": true,
+      "success": true,
+      "returncode": 0,
+      "rendered_png_count": 44,
+      "stdout_tail": "Pages rendered to <PROJECT_ROOT>/06_FI_SUBMISSION_READY_20260620/04_QA_and_manifests/render_v20_with_figures_and_supplementary\n",
+      "stderr_tail": "",
+      "png_dir": "06_FI_SUBMISSION_READY_20260620/04_QA_and_manifests/render_v20_with_figures_and_supplementary",
+      "pdf": "06_FI_SUBMISSION_READY_20260620/01_upload_ready/Frontiers_Immunology_V20_FI_SUBMISSION_WITH_FIGURES_AND_SUPPLEMENTARY.pdf"
+    },
+    {
+      "variant": "v20_main_text_with_figures",
+      "attempted": true,
+      "success": true,
+      "returncode": 0,
+      "rendered_png_count": 22,
+      "stdout_tail": "Pages rendered to <PROJECT_ROOT>/06_FI_SUBMISSION_READY_20260620/04_QA_and_manifests/render_v20_main_text_with_figures\n",
+      "stderr_tail": "",
+      "png_dir": "06_FI_SUBMISSION_READY_20260620/04_QA_and_manifests/render_v20_main_text_with_figures",
+      "pdf": "06_FI_SUBMISSION_READY_20260620/01_upload_ready/Frontiers_Immunology_V20_FI_SUBMISSION_MAIN_TEXT_WITH_FIGURES.pdf"
+    }
+  ],
+  "zip_result_note": "Final zip test is written after packaging to 04_QA_and_manifests/zip_test.txt and reported in the console output.",
+  "zip_result": {
+    "zip": "FI_submission_ready_20260620.zip",
+    "success": true,
+    "returncode": 0,
+    "sha256": "5bb0482dc12bb707e3a7de97f2b33d339c6cca212a4e7207afea99cdf1cdef4f",
+    "size_bytes": 147401253
+  }
+}

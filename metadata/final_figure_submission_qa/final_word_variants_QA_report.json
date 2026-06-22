@@ -1,0 +1,518 @@
+{
+  "generated_at": "2026-06-20T16:35:18",
+  "source_docx": "00_FINAL_WORD/Frontiers_Immunology_V18_FI_figure_aligned.docx",
+  "created": {
+    "fixes": [
+      {
+        "reason": "remove premature Table 3 citation from Methods",
+        "old": "The overall validation and sensitivity strategy is summarized in Table 3.",
+        "new": "The overall validation and sensitivity strategy is summarized across the Results tables and supplementary audit files."
+      },
+      {
+        "reason": "renumber broad-cell composition sensitivity table",
+        "old": "(Table 4; Supplementary Table S6)",
+        "new": "(Table 3; Supplementary Table S6)"
+      },
+      {
+        "reason": "renumber continuous-spectrum table",
+        "old": "(Figure 3; Table 3; Supplementary Table S7)",
+        "new": "(Figure 3; Table 4; Supplementary Table S7)"
+      },
+      {
+        "reason": "remove duplicate Supplementary Table S18 citation",
+        "old": "These analyses provide cellular and pathway plausibility, not paired validation or cell-cell interaction validation (Supplementary Table S18).",
+        "new": "These analyses provide cellular and pathway plausibility, not paired validation or cell-cell interaction validation."
+      },
+      {
+        "reason": "renumber Table 3 caption",
+        "old": "Table 3. Continuous-spectrum, randomization and clustering-stability strategy.",
+        "new": "Table 3. Broad-cell composition-adjusted computational sensitivity summary."
+      },
+      {
+        "reason": "renumber Table 4 caption",
+        "old": "Table 4. Broad-cell composition-adjusted computational sensitivity summary.",
+        "new": "Table 4. Continuous-spectrum, randomization and clustering-stability strategy."
+      }
+    ],
+    "with_supp": "00_FINAL_WORD/Frontiers_Immunology_V19_FI_SUBMISSION_WITH_SUPPLEMENTARY.docx",
+    "main_only": "00_FINAL_WORD/Frontiers_Immunology_V19_FI_SUBMISSION_MAIN_TEXT_ONLY.docx"
+  },
+  "frontiers_sources_checked": [
+    "https://www.frontiersin.org/journals/immunology/for-authors/author-guidelines",
+    "https://www.frontiersin.org/journals/immunology/for-authors/submission-checklist"
+  ],
+  "doi_status": {
+    "doi": "https://doi.org/10.5281/zenodo.20682074",
+    "curl_head_checked": true,
+    "status": "resolved_to_zenodo_record"
+  },
+  "with_supplementary_structural_QA": {
+    "variant": "with_supplementary",
+    "docx": "00_FINAL_WORD/Frontiers_Immunology_V19_FI_SUBMISSION_WITH_SUPPLEMENTARY.docx",
+    "paragraph_count": 299,
+    "table_count": 52,
+    "sha256": "bcafe0e52486c6fc0d136c94012d2545454958c5b8fc171baa880b4282287bc2",
+    "tracked_change_tags": 0,
+    "comments_parts": [],
+    "legend_counts": {
+      "Figure 1": 1,
+      "Figure 2": 1,
+      "Figure 3": 1,
+      "Figure 4": 1,
+      "Figure 5": 1,
+      "Figure 6": 1,
+      "Table 1": 1,
+      "Table 2": 1,
+      "Table 3": 1,
+      "Table 4": 1,
+      "Table 5": 1,
+      "Supplementary Figure S1": 1,
+      "Supplementary Figure S2": 1
+    },
+    "citation_order": {
+      "main_figures": [
+        {
+          "paragraph": 19,
+          "number": 1,
+          "context": "Here we investigated whether public RNA and cytometry data could support a bounded, compartment-aware model of sepsis-associated immunoparalysis. The study architecture and claim boundaries are summarized in Figure 1. Ou"
+        },
+        {
+          "paragraph": 59,
+          "number": 2,
+          "context": "Across seven independent public bulk transcriptomic cohorts, inflammatory and immunometabolic programs were consistently directionally increased in sepsis, whereas MHC-II/CD74, HLA-DR, and adaptive/T-cell context program"
+        },
+        {
+          "paragraph": 63,
+          "number": 3,
+          "context": "Among 499 complete sepsis cases, PCA identified a dominant continuous immune-decoupling gradient explaining 55.9% of case-only signature variance. This gradient was positively aligned with the six-gene host-response pane"
+        },
+        {
+          "paragraph": 65,
+          "number": 4,
+          "context": "Cytometry summaries were interpreted with explicit artifact boundaries. Frequency and summary-level marker-state context were treated as distinct readouts. Matching public raw whole-blood FCS files were available for all"
+        },
+        {
+          "paragraph": 68,
+          "number": 5,
+          "context": "COMBAT paired analysis provided the most direct paired public-data bridge in this study. The paired dataset contained 129 matched biological RNA-CyTOF participant-timepoint rows, including 40 sepsis-only rows from 34 par"
+        },
+        {
+          "paragraph": 82,
+          "number": 6,
+          "context": "The validation strategy reflects the inherent constraints of public-data computational research. Frontiers-relevant validation is addressed through cross-cohort recurrence, continuous-spectrum analysis, broad-cell compos"
+        }
+      ],
+      "main_tables": [
+        {
+          "paragraph": 24,
+          "number": 1,
+          "context": "Seven public sepsis transcriptomic cohorts were analyzed from processed matrices and harmonized metadata: GSE154918, GSE134347, GSE65682, GSE32707, GSE69063, GSE28750, and GSE54514. Collectively, these datasets contribut"
+        },
+        {
+          "paragraph": 28,
+          "number": 2,
+          "context": "The six-gene host-response panel included RETN, MCEMP1, CYP1B1, S100A12, S100A8, and HK3 and was analyzed as a prespecified host-response panel, not as a newly optimized classifier in this manuscript [19]. The MHC-II/CD7"
+        },
+        {
+          "paragraph": 59,
+          "number": 2,
+          "context": "Across seven independent public bulk transcriptomic cohorts, inflammatory and immunometabolic programs were consistently directionally increased in sepsis, whereas MHC-II/CD74, HLA-DR, and adaptive/T-cell context program"
+        },
+        {
+          "paragraph": 61,
+          "number": 3,
+          "context": "Broad-cell composition sensitivity attenuated but did not eliminate the inverse inflammatory/MHC-II pattern. In primary all-sample analyses, unadjusted median \u03c1 values were -0.599 for MHC-II/CD74 and -0.587 for HLA-DR; b"
+        },
+        {
+          "paragraph": 63,
+          "number": 4,
+          "context": "Among 499 complete sepsis cases, PCA identified a dominant continuous immune-decoupling gradient explaining 55.9% of case-only signature variance. This gradient was positively aligned with the six-gene host-response pane"
+        },
+        {
+          "paragraph": 68,
+          "number": 5,
+          "context": "COMBAT paired analysis provided the most direct paired public-data bridge in this study. The paired dataset contained 129 matched biological RNA-CyTOF participant-timepoint rows, including 40 sepsis-only rows from 34 par"
+        }
+      ],
+      "supplementary_figures": [
+        {
+          "paragraph": 82,
+          "number": 1,
+          "context": "The validation strategy reflects the inherent constraints of public-data computational research. Frontiers-relevant validation is addressed through cross-cohort recurrence, continuous-spectrum analysis, broad-cell compos"
+        }
+      ],
+      "supplementary_tables": [
+        {
+          "paragraph": 28,
+          "number": 3,
+          "context": "The six-gene host-response panel included RETN, MCEMP1, CYP1B1, S100A12, S100A8, and HK3 and was analyzed as a prespecified host-response panel, not as a newly optimized classifier in this manuscript [19]. The MHC-II/CD7"
+        },
+        {
+          "paragraph": 59,
+          "number": 3,
+          "context": "Across seven independent public bulk transcriptomic cohorts, inflammatory and immunometabolic programs were consistently directionally increased in sepsis, whereas MHC-II/CD74, HLA-DR, and adaptive/T-cell context program"
+        },
+        {
+          "paragraph": 61,
+          "number": 6,
+          "context": "Broad-cell composition sensitivity attenuated but did not eliminate the inverse inflammatory/MHC-II pattern. In primary all-sample analyses, unadjusted median \u03c1 values were -0.599 for MHC-II/CD74 and -0.587 for HLA-DR; b"
+        },
+        {
+          "paragraph": 63,
+          "number": 7,
+          "context": "Among 499 complete sepsis cases, PCA identified a dominant continuous immune-decoupling gradient explaining 55.9% of case-only signature variance. This gradient was positively aligned with the six-gene host-response pane"
+        },
+        {
+          "paragraph": 65,
+          "number": 8,
+          "context": "Cytometry summaries were interpreted with explicit artifact boundaries. Frequency and summary-level marker-state context were treated as distinct readouts. Matching public raw whole-blood FCS files were available for all"
+        },
+        {
+          "paragraph": 68,
+          "number": 16,
+          "context": "COMBAT paired analysis provided the most direct paired public-data bridge in this study. The paired dataset contained 129 matched biological RNA-CyTOF participant-timepoint rows, including 40 sepsis-only rows from 34 par"
+        },
+        {
+          "paragraph": 72,
+          "number": 18,
+          "context": "Gene-level ranked enrichment analysis across six recoverable bulk cohorts linked higher RNA decoupling gradient to neutrophil degranulation, IL-1/interleukin, vesicle-transport and protein-secretion context, whereas lowe"
+        },
+        {
+          "paragraph": 73,
+          "number": 2,
+          "context": "Independent paired-dataset discovery did not identify a fully public, mappable non-COMBAT sepsis dataset containing paired whole-blood RNA plus flow/CyTOF or monocyte HLA-DR protein measurements suitable for repeating th"
+        },
+        {
+          "paragraph": 75,
+          "number": 17,
+          "context": "In the sepsis-only paired subset, Death28 involved 11 events among 40 rows. Median MHC-II/CD74 score was lower in Death28-positive rows than in survivors (-1.401 versus -0.834; difference -0.567 SD units; Spearman \u03c1 with"
+        },
+        {
+          "paragraph": 85,
+          "number": 18,
+          "context": "Several important limitations remain. Public cohorts differ in platform, sampling time, disease definition, preprocessing pipeline, and control composition. The RNA results rely on within-cohort scoring, rank/correlation"
+        },
+        {
+          "paragraph": 87,
+          "number": 1,
+          "context": "Code, derived aggregate tables, figure files, and reproducibility metadata supporting this study are available at Zenodo: https://doi.org/10.5281/zenodo.20682074. Public source datasets and accessions are listed in Suppl"
+        }
+      ]
+    },
+    "old_s1_legend_present": false,
+    "duplicate_s18_sentence_present": false,
+    "forbidden_claim_scan": {
+      "validated endotype": {
+        "count": 1,
+        "boundary_context_only": true
+      },
+      "clinical prediction model": {
+        "count": 2,
+        "boundary_context_only": true
+      },
+      "causal mechanism": {
+        "count": 2,
+        "boundary_context_only": true
+      },
+      "therapeutic claims": {
+        "count": 2,
+        "boundary_context_only": true
+      },
+      "physical CD3/CD14 complex": {
+        "count": 1,
+        "boundary_context_only": true
+      }
+    }
+  },
+  "main_text_only_structural_QA": {
+    "variant": "main_text_only",
+    "docx": "00_FINAL_WORD/Frontiers_Immunology_V19_FI_SUBMISSION_MAIN_TEXT_ONLY.docx",
+    "paragraph_count": 174,
+    "table_count": 5,
+    "sha256": "cb56b7f7f7c3f76d366fbceff4fb38602ed5f184a001bf3e8a640152ff5f2723",
+    "tracked_change_tags": 0,
+    "comments_parts": [],
+    "legend_counts": {
+      "Figure 1": 1,
+      "Figure 2": 1,
+      "Figure 3": 1,
+      "Figure 4": 1,
+      "Figure 5": 1,
+      "Figure 6": 1,
+      "Table 1": 1,
+      "Table 2": 1,
+      "Table 3": 1,
+      "Table 4": 1,
+      "Table 5": 1,
+      "Supplementary Figure S1": 0,
+      "Supplementary Figure S2": 0
+    },
+    "citation_order": {
+      "main_figures": [
+        {
+          "paragraph": 19,
+          "number": 1,
+          "context": "Here we investigated whether public RNA and cytometry data could support a bounded, compartment-aware model of sepsis-associated immunoparalysis. The study architecture and claim boundaries are summarized in Figure 1. Ou"
+        },
+        {
+          "paragraph": 59,
+          "number": 2,
+          "context": "Across seven independent public bulk transcriptomic cohorts, inflammatory and immunometabolic programs were consistently directionally increased in sepsis, whereas MHC-II/CD74, HLA-DR, and adaptive/T-cell context program"
+        },
+        {
+          "paragraph": 63,
+          "number": 3,
+          "context": "Among 499 complete sepsis cases, PCA identified a dominant continuous immune-decoupling gradient explaining 55.9% of case-only signature variance. This gradient was positively aligned with the six-gene host-response pane"
+        },
+        {
+          "paragraph": 65,
+          "number": 4,
+          "context": "Cytometry summaries were interpreted with explicit artifact boundaries. Frequency and summary-level marker-state context were treated as distinct readouts. Matching public raw whole-blood FCS files were available for all"
+        },
+        {
+          "paragraph": 68,
+          "number": 5,
+          "context": "COMBAT paired analysis provided the most direct paired public-data bridge in this study. The paired dataset contained 129 matched biological RNA-CyTOF participant-timepoint rows, including 40 sepsis-only rows from 34 par"
+        },
+        {
+          "paragraph": 82,
+          "number": 6,
+          "context": "The validation strategy reflects the inherent constraints of public-data computational research. Frontiers-relevant validation is addressed through cross-cohort recurrence, continuous-spectrum analysis, broad-cell compos"
+        }
+      ],
+      "main_tables": [
+        {
+          "paragraph": 24,
+          "number": 1,
+          "context": "Seven public sepsis transcriptomic cohorts were analyzed from processed matrices and harmonized metadata: GSE154918, GSE134347, GSE65682, GSE32707, GSE69063, GSE28750, and GSE54514. Collectively, these datasets contribut"
+        },
+        {
+          "paragraph": 28,
+          "number": 2,
+          "context": "The six-gene host-response panel included RETN, MCEMP1, CYP1B1, S100A12, S100A8, and HK3 and was analyzed as a prespecified host-response panel, not as a newly optimized classifier in this manuscript [19]. The MHC-II/CD7"
+        },
+        {
+          "paragraph": 59,
+          "number": 2,
+          "context": "Across seven independent public bulk transcriptomic cohorts, inflammatory and immunometabolic programs were consistently directionally increased in sepsis, whereas MHC-II/CD74, HLA-DR, and adaptive/T-cell context program"
+        },
+        {
+          "paragraph": 61,
+          "number": 3,
+          "context": "Broad-cell composition sensitivity attenuated but did not eliminate the inverse inflammatory/MHC-II pattern. In primary all-sample analyses, unadjusted median \u03c1 values were -0.599 for MHC-II/CD74 and -0.587 for HLA-DR; b"
+        },
+        {
+          "paragraph": 63,
+          "number": 4,
+          "context": "Among 499 complete sepsis cases, PCA identified a dominant continuous immune-decoupling gradient explaining 55.9% of case-only signature variance. This gradient was positively aligned with the six-gene host-response pane"
+        },
+        {
+          "paragraph": 68,
+          "number": 5,
+          "context": "COMBAT paired analysis provided the most direct paired public-data bridge in this study. The paired dataset contained 129 matched biological RNA-CyTOF participant-timepoint rows, including 40 sepsis-only rows from 34 par"
+        }
+      ],
+      "supplementary_figures": [
+        {
+          "paragraph": 82,
+          "number": 1,
+          "context": "The validation strategy reflects the inherent constraints of public-data computational research. Frontiers-relevant validation is addressed through cross-cohort recurrence, continuous-spectrum analysis, broad-cell compos"
+        }
+      ],
+      "supplementary_tables": [
+        {
+          "paragraph": 28,
+          "number": 3,
+          "context": "The six-gene host-response panel included RETN, MCEMP1, CYP1B1, S100A12, S100A8, and HK3 and was analyzed as a prespecified host-response panel, not as a newly optimized classifier in this manuscript [19]. The MHC-II/CD7"
+        },
+        {
+          "paragraph": 59,
+          "number": 3,
+          "context": "Across seven independent public bulk transcriptomic cohorts, inflammatory and immunometabolic programs were consistently directionally increased in sepsis, whereas MHC-II/CD74, HLA-DR, and adaptive/T-cell context program"
+        },
+        {
+          "paragraph": 61,
+          "number": 6,
+          "context": "Broad-cell composition sensitivity attenuated but did not eliminate the inverse inflammatory/MHC-II pattern. In primary all-sample analyses, unadjusted median \u03c1 values were -0.599 for MHC-II/CD74 and -0.587 for HLA-DR; b"
+        },
+        {
+          "paragraph": 63,
+          "number": 7,
+          "context": "Among 499 complete sepsis cases, PCA identified a dominant continuous immune-decoupling gradient explaining 55.9% of case-only signature variance. This gradient was positively aligned with the six-gene host-response pane"
+        },
+        {
+          "paragraph": 65,
+          "number": 8,
+          "context": "Cytometry summaries were interpreted with explicit artifact boundaries. Frequency and summary-level marker-state context were treated as distinct readouts. Matching public raw whole-blood FCS files were available for all"
+        },
+        {
+          "paragraph": 68,
+          "number": 16,
+          "context": "COMBAT paired analysis provided the most direct paired public-data bridge in this study. The paired dataset contained 129 matched biological RNA-CyTOF participant-timepoint rows, including 40 sepsis-only rows from 34 par"
+        },
+        {
+          "paragraph": 72,
+          "number": 18,
+          "context": "Gene-level ranked enrichment analysis across six recoverable bulk cohorts linked higher RNA decoupling gradient to neutrophil degranulation, IL-1/interleukin, vesicle-transport and protein-secretion context, whereas lowe"
+        },
+        {
+          "paragraph": 73,
+          "number": 2,
+          "context": "Independent paired-dataset discovery did not identify a fully public, mappable non-COMBAT sepsis dataset containing paired whole-blood RNA plus flow/CyTOF or monocyte HLA-DR protein measurements suitable for repeating th"
+        },
+        {
+          "paragraph": 75,
+          "number": 17,
+          "context": "In the sepsis-only paired subset, Death28 involved 11 events among 40 rows. Median MHC-II/CD74 score was lower in Death28-positive rows than in survivors (-1.401 versus -0.834; difference -0.567 SD units; Spearman \u03c1 with"
+        },
+        {
+          "paragraph": 85,
+          "number": 18,
+          "context": "Several important limitations remain. Public cohorts differ in platform, sampling time, disease definition, preprocessing pipeline, and control composition. The RNA results rely on within-cohort scoring, rank/correlation"
+        },
+        {
+          "paragraph": 87,
+          "number": 1,
+          "context": "Code, derived aggregate tables, figure files, and reproducibility metadata supporting this study are available at Zenodo: https://doi.org/10.5281/zenodo.20682074. Public source datasets and accessions are listed in Suppl"
+        }
+      ]
+    },
+    "old_s1_legend_present": false,
+    "duplicate_s18_sentence_present": false,
+    "forbidden_claim_scan": {
+      "validated endotype": {
+        "count": 1,
+        "boundary_context_only": true
+      },
+      "clinical prediction model": {
+        "count": 2,
+        "boundary_context_only": true
+      },
+      "causal mechanism": {
+        "count": 2,
+        "boundary_context_only": true
+      },
+      "therapeutic claims": {
+        "count": 1,
+        "boundary_context_only": true
+      },
+      "physical CD3/CD14 complex": {
+        "count": 1,
+        "boundary_context_only": true
+      }
+    }
+  },
+  "render_QA": [
+    {
+      "variant": "with_supplementary",
+      "attempted": true,
+      "success": true,
+      "returncode": 0,
+      "rendered_png_count": 36,
+      "stdout_tail": "Pages rendered to <PROJECT_ROOT>/06_FI_SUBMISSION_READY_20260620/04_QA_and_manifests/render_with_supplementary\n",
+      "stderr_tail": "",
+      "png_dir": "06_FI_SUBMISSION_READY_20260620/04_QA_and_manifests/render_with_supplementary",
+      "pdf": "06_FI_SUBMISSION_READY_20260620/01_upload_ready/Frontiers_Immunology_V19_FI_SUBMISSION_WITH_SUPPLEMENTARY.pdf"
+    },
+    {
+      "variant": "main_text_only",
+      "attempted": true,
+      "success": true,
+      "returncode": 0,
+      "rendered_png_count": 16,
+      "stdout_tail": "Pages rendered to <PROJECT_ROOT>/06_FI_SUBMISSION_READY_20260620/04_QA_and_manifests/render_main_text_only\n",
+      "stderr_tail": "",
+      "png_dir": "06_FI_SUBMISSION_READY_20260620/04_QA_and_manifests/render_main_text_only",
+      "pdf": "06_FI_SUBMISSION_READY_20260620/01_upload_ready/Frontiers_Immunology_V19_FI_SUBMISSION_MAIN_TEXT_ONLY.pdf"
+    }
+  ],
+  "figure_file_QA": [
+    {
+      "file": "Figure_01.tiff",
+      "mode": "RGB",
+      "width_px": 4252,
+      "height_px": 3662,
+      "dpi_x": 600.0,
+      "dpi_y": 600.0,
+      "frontiers_pass": true,
+      "sha256": "6327775168b7784d76c723c2a5228200207218f1ac570d37aae99e6f6ae11534"
+    },
+    {
+      "file": "Figure_02.tiff",
+      "mode": "RGB",
+      "width_px": 4252,
+      "height_px": 3425,
+      "dpi_x": 600.0,
+      "dpi_y": 600.0,
+      "frontiers_pass": true,
+      "sha256": "c4ad39386239ed7c10f6c2740c3229acd39a98cfe216c7442a76350ec1d23a31"
+    },
+    {
+      "file": "Figure_03.tiff",
+      "mode": "RGB",
+      "width_px": 4252,
+      "height_px": 4252,
+      "dpi_x": 600.0,
+      "dpi_y": 600.0,
+      "frontiers_pass": true,
+      "sha256": "c87dc753ba1c75dfa790d764e82e18428485ff15755b926a5a080e615993b05b"
+    },
+    {
+      "file": "Figure_04.tiff",
+      "mode": "RGB",
+      "width_px": 4252,
+      "height_px": 4016,
+      "dpi_x": 600.0,
+      "dpi_y": 600.0,
+      "frontiers_pass": true,
+      "sha256": "bded68f39d2ed99edfebcc824549890749963c39d870cdfcb3433c0b5756b097"
+    },
+    {
+      "file": "Figure_05.tiff",
+      "mode": "RGB",
+      "width_px": 4320,
+      "height_px": 5550,
+      "dpi_x": 600.0,
+      "dpi_y": 600.0,
+      "frontiers_pass": true,
+      "sha256": "5360c554bc9d8443b0895f5873c9907e0421ab51a7254faf9edc6bdb1fd20758"
+    },
+    {
+      "file": "Figure_06.tiff",
+      "mode": "RGB",
+      "width_px": 4252,
+      "height_px": 3307,
+      "dpi_x": 600.0,
+      "dpi_y": 600.0,
+      "frontiers_pass": true,
+      "sha256": "4576381e058d34dd7c3448aed05b92fd3e96ce95b269b3e8e84abc27a2a4022e"
+    },
+    {
+      "file": "Supplementary_Figure_S1.tiff",
+      "mode": "RGB",
+      "width_px": 4252,
+      "height_px": 3543,
+      "dpi_x": 600.0,
+      "dpi_y": 600.0,
+      "frontiers_pass": true,
+      "sha256": "84b5fa0ffb2c34d55fd24959879e033d0e8ecfe18a193307b517819158c8aa7c"
+    },
+    {
+      "file": "Supplementary_Figure_S2.tiff",
+      "mode": "RGB",
+      "width_px": 4252,
+      "height_px": 3543,
+      "dpi_x": 600.0,
+      "dpi_y": 600.0,
+      "frontiers_pass": true,
+      "sha256": "bc3b49d44f5126135da8729f6daba6fcecd13dae85481bcc3477bd4082c4c201"
+    }
+  ],
+  "zip_result": {
+    "zip": "FI_submission_ready_20260620.zip",
+    "success": true,
+    "returncode": 0,
+    "size_bytes": 100746551,
+    "sha256": "5df3b2d498d757ce1e193d81fa7c80dd20e9c2e6d5a619b85dbff04392bcb680"
+  }
+}
