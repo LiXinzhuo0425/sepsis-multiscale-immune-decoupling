@@ -3,11 +3,12 @@
   "release_version": "v0.1.1",
   "journal_neutral_public_metadata": true,
   "file_count": 198,
-  "release_size_bytes": 52364507,
+  "release_size_bytes": 52364398,
   "text_scan_hits": [],
   "large_files_over_50mb": [],
   "notes": [
     "Final manuscript DOCX/PDF files are not included; checksum and QA summaries are retained.",
-    "Local absolute paths are replaced by placeholders in text-like public files."
+    "Local absolute paths are replaced by placeholders in text-like public files.",
+    "Zenodo v0.1.1 version DOI: 10.5281/zenodo.20791782."
   ]
 }
