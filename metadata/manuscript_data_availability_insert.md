@@ -10,7 +10,7 @@ Zenodo concept DOI for the latest archived version:
 `https://doi.org/10.5281/zenodo.20682073`
 
 Zenodo version DOI for the v0.1.3 final revision release:
-`PENDING_ZENODO_V0.1.3_VERSION_DOI`
+`https://doi.org/10.5281/zenodo.20794161`
 
 The release contains no MIMIC-IV, eICU, restricted ICU EHR records, protected
 health information, or raw restricted clinical data. Public accession-level

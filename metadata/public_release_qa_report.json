@@ -1,11 +1,12 @@
 {
   "date": "2026-06-22",
   "release_version": "v0.1.3",
+  "zenodo_version_doi": "10.5281/zenodo.20794161",
   "journal_neutral_public_metadata": true,
   "file_count": 206,
-  "release_size_bytes": 53047735,
+  "release_size_bytes": 53047820,
   "text_scan_hits": [],
   "forbidden_path_hits": [],
   "large_files_over_50mb": [],
-  "manifest_sha256": "2c545dbce567e5dccf73b09a04ebf296259be2be32dfbe210f0142a703aea973"
+  "manifest_sha256": "ee934250e6693c4a9fdeea98b10e9eacd634b13306c0e9b657c98cd334996f83"
 }
