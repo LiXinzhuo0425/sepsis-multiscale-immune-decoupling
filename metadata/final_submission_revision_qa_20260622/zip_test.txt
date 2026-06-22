@@ -1,5 +1,4 @@
-Archive:  <PROJECT_ROOT>/FI_submission_revised_20260622.zip
-    testing: 07_FI_SUBMISSION_REVISED_20260622/.DS_Store   OK
+Archive:  FI_submission_revised_20260622.zip
     testing: 07_FI_SUBMISSION_REVISED_20260622/01_upload_ready/Figure_01.tiff   OK
     testing: 07_FI_SUBMISSION_REVISED_20260622/01_upload_ready/Figure_01_preview.png   OK
     testing: 07_FI_SUBMISSION_REVISED_20260622/01_upload_ready/Figure_02.tiff   OK
@@ -71,6 +70,7 @@ Archive:  <PROJECT_ROOT>/FI_submission_revised_20260622.zip
     testing: 07_FI_SUBMISSION_REVISED_20260622/04_QA_and_manifests/revision_QA_report.json   OK
     testing: 07_FI_SUBMISSION_REVISED_20260622/04_QA_and_manifests/v21_main_text_only_revised_contact_sheet.png   OK
     testing: 07_FI_SUBMISSION_REVISED_20260622/04_QA_and_manifests/v21_supplementary_index_only_contact_sheet.png   OK
+    testing: 07_FI_SUBMISSION_REVISED_20260622/04_QA_and_manifests/zenodo_doi_sync_QA_report.json   OK
     testing: 07_FI_SUBMISSION_REVISED_20260622/04_QA_and_manifests/zip_test.txt   OK
     testing: 07_FI_SUBMISSION_REVISED_20260622/README.md   OK
-No errors detected in compressed data of <PROJECT_ROOT>/FI_submission_revised_20260622.zip.
+No errors detected in compressed data of FI_submission_revised_20260622.zip.
