@@ -3,7 +3,7 @@
 Status: PASS
 Release version: v0.1.2
 File count: 198
-Release size bytes: 52364903
+Release size bytes: 52364954
 Text scan hits: 0
 Large files over 50 MB: 0
 

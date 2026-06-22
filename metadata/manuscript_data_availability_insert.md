@@ -9,8 +9,8 @@ GitHub repository:
 Zenodo concept DOI for the latest archived version:
 `https://doi.org/10.5281/zenodo.20682073`
 
-Use the latest versioned DOI shown on the Zenodo record when a fixed citation is
-required by the journal.
+Zenodo version DOI for this clean submission release:
+`https://doi.org/10.5281/zenodo.20791871`
 
 The release contains no MIMIC-IV, eICU, restricted ICU EHR records, protected
 health information, or raw restricted clinical data. Public accession-level

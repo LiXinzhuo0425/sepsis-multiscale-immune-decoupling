@@ -8,9 +8,9 @@ Public-data multiscale immune decoupling analysis in sepsis
 
 Recommended version: v0.1.2
 
-Prior published Zenodo version DOI:
+Published Zenodo v0.1.2 version DOI:
 
-https://doi.org/10.5281/zenodo.20791782
+https://doi.org/10.5281/zenodo.20791871
 
 Recommended description:
 
