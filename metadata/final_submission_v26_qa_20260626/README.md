@@ -5,6 +5,7 @@ This directory is the final Frontiers in Immunology submission package generated
 ## Upload-facing contents
 
 - Main manuscript DOCX: `Frontiers_Immunology_V26_FI_FINAL_SUBMISSION_MAIN_TEXT.docx`
+- Main manuscript PDF: `Frontiers_Immunology_V26_FI_FINAL_SUBMISSION_MAIN_TEXT.pdf`
 - Supplementary materials index DOCX: `Frontiers_Immunology_V26_FI_FINAL_SUPPLEMENTARY_MATERIALS_INDEX_ONLY.docx`
 - Main figures: `Figure_01` to `Figure_05` in SVG, PDF, TIFF, and PNG
 - Formal supplementary figure: `Supplementary_Figure_S1` in SVG, PDF, TIFF, and PNG
