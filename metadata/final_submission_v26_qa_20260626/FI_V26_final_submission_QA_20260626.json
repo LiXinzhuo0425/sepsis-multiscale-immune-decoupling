@@ -215,95 +215,102 @@
     "status": "passed",
     "main_pdf": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Frontiers_Immunology_V26_FI_FINAL_SUBMISSION_MAIN_TEXT.pdf",
     "render_pdf": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/Frontiers_Immunology_V26_FI_FINAL_SUBMISSION_MAIN_TEXT.pdf",
+    "page_size_points": {
+      "width_pts": 612.0,
+      "height_pts": 792.0,
+      "label": "letter",
+      "is_portrait": true
+    },
+    "is_portrait": true,
     "page_count": 11,
     "blank_pages": [],
     "page_pngs": [
       {
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-01.png",
-        "width_px": 1650,
-        "height_px": 1275,
-        "mean_luma": 236.8387,
-        "std_luma": 57.919,
+        "width_px": 1275,
+        "height_px": 1650,
+        "mean_luma": 234.0835,
+        "std_luma": 61.639,
         "blank": false
       },
       {
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-02.png",
-        "width_px": 1650,
-        "height_px": 1275,
-        "mean_luma": 232.4688,
-        "std_luma": 63.6887,
+        "width_px": 1275,
+        "height_px": 1650,
+        "mean_luma": 232.0088,
+        "std_luma": 64.3404,
         "blank": false
       },
       {
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-03.png",
-        "width_px": 1650,
-        "height_px": 1275,
-        "mean_luma": 233.3381,
-        "std_luma": 62.6236,
+        "width_px": 1275,
+        "height_px": 1650,
+        "mean_luma": 232.3983,
+        "std_luma": 63.8045,
         "blank": false
       },
       {
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-04.png",
-        "width_px": 1650,
-        "height_px": 1275,
-        "mean_luma": 234.6915,
-        "std_luma": 60.9097,
+        "width_px": 1275,
+        "height_px": 1650,
+        "mean_luma": 232.6454,
+        "std_luma": 63.7074,
         "blank": false
       },
       {
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-05.png",
-        "width_px": 1650,
-        "height_px": 1275,
-        "mean_luma": 229.3566,
-        "std_luma": 66.8339,
+        "width_px": 1275,
+        "height_px": 1650,
+        "mean_luma": 230.1302,
+        "std_luma": 65.3064,
         "blank": false
       },
       {
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-06.png",
-        "width_px": 1650,
-        "height_px": 1275,
-        "mean_luma": 235.3571,
-        "std_luma": 59.5338,
+        "width_px": 1275,
+        "height_px": 1650,
+        "mean_luma": 236.9217,
+        "std_luma": 58.1069,
         "blank": false
       },
       {
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-07.png",
-        "width_px": 1650,
-        "height_px": 1275,
-        "mean_luma": 240.1144,
-        "std_luma": 53.093,
+        "width_px": 1275,
+        "height_px": 1650,
+        "mean_luma": 235.9068,
+        "std_luma": 59.0064,
         "blank": false
       },
       {
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-08.png",
-        "width_px": 1650,
-        "height_px": 1275,
-        "mean_luma": 237.1344,
-        "std_luma": 57.221,
+        "width_px": 1275,
+        "height_px": 1650,
+        "mean_luma": 236.1346,
+        "std_luma": 58.6541,
         "blank": false
       },
       {
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-09.png",
-        "width_px": 1650,
-        "height_px": 1275,
-        "mean_luma": 240.4422,
-        "std_luma": 52.2211,
+        "width_px": 1275,
+        "height_px": 1650,
+        "mean_luma": 249.5123,
+        "std_luma": 32.9377,
         "blank": false
       },
       {
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-10.png",
-        "width_px": 1650,
-        "height_px": 1275,
-        "mean_luma": 241.445,
-        "std_luma": 50.4105,
+        "width_px": 1275,
+        "height_px": 1650,
+        "mean_luma": 241.9465,
+        "std_luma": 49.5168,
         "blank": false
       },
       {
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-11.png",
-        "width_px": 1650,
-        "height_px": 1275,
-        "mean_luma": 249.7378,
-        "std_luma": 31.5948,
+        "width_px": 1275,
+        "height_px": 1650,
+        "mean_luma": 250.2966,
+        "std_luma": 30.1378,
         "blank": false
       }
     ],
@@ -318,16 +325,16 @@
   "upload_manifest": {
     "output": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/FI_V26_frontiers_upload_manifest_sha256.csv",
     "rows": 30,
-    "sha256": "14a1a3a5296ec9bde3a76c07cd529ba63ad17b9eaffe86d5d6a890e08ee96130"
+    "sha256": "b3e522f69e686c9f1f599e3bc6c47c078e6eb257973dbc404dc3ca853195ab8f"
   },
   "manifest": {
     "output": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/FI_V26_final_submission_manifest_sha256.csv",
     "rows": 78,
-    "sha256": "f0c5689f06222a694b0c59309727282e6fc5561cf0ebf52de2d513dd4c99191e"
+    "sha256": "12e2f21cdd9c0d16395490557aa947c2f26ace9e4c25ea0e113182fa9c640124"
   },
   "zip": {
     "zip": "FI_V26_final_submission_20260626.zip",
-    "sha256": "bf852ce63829997ac963767739d66f7f515e306aebc49499307b896e340e646a",
+    "sha256": "a18e2f7948fdf96e96330a555045cecf605194dd560a307ef241020dafa86f90",
     "entry_count": 78,
     "testzip_passed": true
   }
