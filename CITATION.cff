@@ -10,6 +10,7 @@ authors:
     given-names: "Yi"
 license: MIT
 repository-code: "https://github.com/LiXinzhuo0425/sepsis-multiscale-immune-decoupling"
+doi: "10.5281/zenodo.20911494"
 keywords:
   - sepsis
   - immune decoupling

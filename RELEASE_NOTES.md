@@ -6,6 +6,7 @@
 - Updates authorship metadata to Xinzhuo Li and Yi Gong, with Yi Gong as corresponding author in the manuscript.
 - Replaces the prior six-main-figure public export with final main Figures 1-5 and formal Supplementary Figure S1.
 - Updates figure source-data tables, final QA reports, upload manifests, and checksum manifests.
+- Zenodo version DOI: https://doi.org/10.5281/zenodo.20911494.
 - Prepares Zenodo metadata with `v0.1.4` and records `10.5281/zenodo.20794161` as the superseded prior version.
 
 Prior release history remains available from the repository tags and Zenodo version chain.

@@ -17,7 +17,7 @@ The final author list is Xinzhuo Li and Yi Gong. Yi Gong is the corresponding au
 ## Repository and archive
 
 - GitHub repository: https://github.com/LiXinzhuo0425/sepsis-multiscale-immune-decoupling
-- Zenodo version DOI pending for v0.1.4; prior archived version DOI: https://doi.org/10.5281/zenodo.20794161
+- Zenodo version DOI: https://doi.org/10.5281/zenodo.20911494
 - Previous Zenodo version DOI: https://doi.org/10.5281/zenodo.20794161
 
 ## QA

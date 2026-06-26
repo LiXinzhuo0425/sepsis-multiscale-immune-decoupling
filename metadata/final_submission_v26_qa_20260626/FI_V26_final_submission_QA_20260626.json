@@ -14,10 +14,10 @@
   },
   "zenodo": {
     "target_version": "v0.1.4",
-    "new_version_doi": null,
+    "new_version_doi": "10.5281/zenodo.20911494",
     "previous_version_doi": "10.5281/zenodo.20794161",
     "concept_doi": "10.5281/zenodo.20682073",
-    "doi_status": "pending_github_release_to_zenodo_archive"
+    "doi_status": "resolved"
   },
   "text_and_author_scan": {
     "passed": true,
@@ -222,16 +222,16 @@
   "upload_manifest": {
     "output": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/FI_V26_frontiers_upload_manifest_sha256.csv",
     "rows": 29,
-    "sha256": "ba05a9aabdeceb8478e684d83101527592d75218830266c4fdd7fcf7a5124e80"
+    "sha256": "41311f9b04512fd6e5e2d6016ec156c5b23a4de1a67b0c3d649b64e774e764d1"
   },
   "manifest": {
     "output": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/FI_V26_final_submission_manifest_sha256.csv",
     "rows": 64,
-    "sha256": "8e44e84ddc74f5b6320a336ecd746d74d11b232d883d7b236a9fd504a2ad57aa"
+    "sha256": "2cbaf8c77a39c9e2fcdd4ca8226f90cbc0266151d7fe53522a5670625ab2818c"
   },
   "zip": {
     "zip": "FI_V26_final_submission_20260626.zip",
-    "sha256": "48c8f68322b96353dcd8dfad955bd584bc6f89ac2dfaf07adeabc03a2098e95e",
+    "sha256": "9dba963b8fa3593aa3f3c3a871194130e4bb2bf5fa47415d4e468eac204f9467",
     "entry_count": 64,
     "testzip_passed": true
   }

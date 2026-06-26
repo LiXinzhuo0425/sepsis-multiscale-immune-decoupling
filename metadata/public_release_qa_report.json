@@ -1,8 +1,8 @@
 {
   "date": "2026-06-26",
   "release_version": "v0.1.4",
-  "zenodo_version_doi": null,
-  "zenodo_doi_status": "pending_github_release_to_zenodo_archive",
+  "zenodo_version_doi": "10.5281/zenodo.20911494",
+  "zenodo_doi_status": "resolved",
   "previous_zenodo_version_doi": "10.5281/zenodo.20794161",
   "authors": [
     "Xinzhuo Li",
