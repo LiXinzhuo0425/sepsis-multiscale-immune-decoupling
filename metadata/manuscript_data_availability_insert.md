@@ -1,18 +1,14 @@
-# Manuscript Data And Code Availability Insert
+# Manuscript Data Availability Insert
 
-Code, derived aggregate tables, figure files, and reproducibility metadata
-supporting this study are available in a public repository:
+Code, derived aggregate tables, figure files, and reproducibility metadata supporting this study are available in a public repository:
 
 GitHub repository:
 `https://github.com/LiXinzhuo0425/sepsis-multiscale-immune-decoupling`
 
-Zenodo concept DOI for the latest archived version:
+Zenodo concept DOI:
 `https://doi.org/10.5281/zenodo.20682073`
 
-Zenodo version DOI for the v0.1.3 final revision release:
-`https://doi.org/10.5281/zenodo.20794161`
+Zenodo version DOI for `v0.1.4`:
+`pending Zenodo DOI after GitHub release archive`
 
-The release contains no MIMIC-IV, eICU, restricted ICU EHR records, protected
-health information, or raw restricted clinical data. Public accession-level
-sources and analysis boundaries are documented in the repository data
-availability files and supplementary data tables.
+Public source datasets and accessions are listed in Supplementary Table S1. No restricted ICU EHR data, MIMIC-IV/eICU records, protected health information, or newly collected human samples were used.

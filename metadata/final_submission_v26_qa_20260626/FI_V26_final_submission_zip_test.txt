@@ -1,0 +1,4 @@
+zip=FI_V26_final_submission_20260626.zip
+sha256=48c8f68322b96353dcd8dfad955bd584bc6f89ac2dfaf07adeabc03a2098e95e
+entry_count=64
+testzip_passed=True

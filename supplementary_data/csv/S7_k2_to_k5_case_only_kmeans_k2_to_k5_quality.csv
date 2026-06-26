@@ -1,5 +1,0 @@
-k,total_withinss_custom,silhouette_mean_custom,cluster_size_min,cluster_size_max,claim_boundary
-2,2198.768427749791,0.3042894874061518,242,257,computational clustering stability only; not validated clinical endotype
-3,1849.7510307600692,0.242614524279668,138,221,computational clustering stability only; not validated clinical endotype
-4,1567.4468821805451,0.2342104977633699,89,158,computational clustering stability only; not validated clinical endotype
-5,1413.3223885967004,0.2339807134584809,57,151,computational clustering stability only; not validated clinical endotype

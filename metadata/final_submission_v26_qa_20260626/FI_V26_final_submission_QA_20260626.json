@@ -1,0 +1,238 @@
+{
+  "package": "FI V26 final submission",
+  "date": "2026-06-26",
+  "frontiers_guideline_urls": [
+    "https://www.frontiersin.org/journals/immunology/for-authors/author-guidelines",
+    "https://www.frontiersin.org/journals/immunology/for-authors/submission-checklist",
+    "https://www.frontiersin.org/journals/immunology/for-authors/article-types",
+    "https://www.frontiersin.org/guidelines/policies-and-publication-ethics"
+  ],
+  "authors": {
+    "final_author_line": "Xinzhuo Li1 and Yi Gong2,*",
+    "corresponding_author": "Yi Gong",
+    "removed_author_variant_count_checked": 4
+  },
+  "zenodo": {
+    "target_version": "v0.1.4",
+    "new_version_doi": null,
+    "previous_version_doi": "10.5281/zenodo.20794161",
+    "concept_doi": "10.5281/zenodo.20682073",
+    "doi_status": "pending_github_release_to_zenodo_archive"
+  },
+  "text_and_author_scan": {
+    "passed": true,
+    "removed_author_hits": [],
+    "required_author_counts": {
+      "Xinzhuo Li": 6,
+      "Yi Gong": 12
+    },
+    "missing_required_author_terms": [],
+    "forbidden_stat_hits": []
+  },
+  "supplementary_tables_zip_scan": {
+    "path": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Supplementary_Tables_S1_to_S22_CSV.zip",
+    "entry_count": 24,
+    "passed": true,
+    "hits": []
+  },
+  "word_field_counts": {
+    "14_FI_FINAL_SUBMISSION_20260626/Frontiers_Immunology_V26_FI_FINAL_SUBMISSION_MAIN_TEXT.docx": {
+      "fldChar": 0,
+      "instrText": 0
+    },
+    "14_FI_FINAL_SUBMISSION_20260626/02_advisor_review/Frontiers_Immunology_V26_ADVISOR_REVIEW_MAIN_WITH_FIGURES.docx": {
+      "fldChar": 0,
+      "instrText": 0
+    },
+    "14_FI_FINAL_SUBMISSION_20260626/Frontiers_Immunology_V26_FI_FINAL_SUPPLEMENTARY_MATERIALS_INDEX_ONLY.docx": {
+      "fldChar": 0,
+      "instrText": 0
+    }
+  },
+  "image_qa": [
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_01.tiff",
+      "exists": true,
+      "nonblank": true,
+      "dpi": [
+        600.0,
+        600.0
+      ],
+      "width_px": 4320,
+      "height_px": 3540
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_01.png",
+      "exists": true,
+      "nonblank": true,
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "width_px": 2160,
+      "height_px": 1770
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_02.tiff",
+      "exists": true,
+      "nonblank": true,
+      "dpi": [
+        600.0,
+        600.0
+      ],
+      "width_px": 4320,
+      "height_px": 4080
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_02.png",
+      "exists": true,
+      "nonblank": true,
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "width_px": 2160,
+      "height_px": 2040
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_03.tiff",
+      "exists": true,
+      "nonblank": true,
+      "dpi": [
+        600.0,
+        600.0
+      ],
+      "width_px": 4320,
+      "height_px": 4080
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_03.png",
+      "exists": true,
+      "nonblank": true,
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "width_px": 2160,
+      "height_px": 2040
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_04.tiff",
+      "exists": true,
+      "nonblank": true,
+      "dpi": [
+        600.0,
+        600.0
+      ],
+      "width_px": 4440,
+      "height_px": 5280
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_04.png",
+      "exists": true,
+      "nonblank": true,
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "width_px": 2220,
+      "height_px": 2640
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_05.tiff",
+      "exists": true,
+      "nonblank": true,
+      "dpi": [
+        600.0,
+        600.0
+      ],
+      "width_px": 4320,
+      "height_px": 3840
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_05.png",
+      "exists": true,
+      "nonblank": true,
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "width_px": 2160,
+      "height_px": 1920
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Supplementary_Figure_S1.tiff",
+      "exists": true,
+      "nonblank": true,
+      "dpi": [
+        600.0,
+        600.0
+      ],
+      "width_px": 4320,
+      "height_px": 2520
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Supplementary_Figure_S1.png",
+      "exists": true,
+      "nonblank": true,
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "width_px": 2160,
+      "height_px": 1260
+    }
+  ],
+  "pdf_vector_qa": [
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_01.pdf",
+      "embedded_raster_count": 0
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_02.pdf",
+      "embedded_raster_count": 0
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_03.pdf",
+      "embedded_raster_count": 0
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_04.pdf",
+      "embedded_raster_count": 0
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_05.pdf",
+      "embedded_raster_count": 0
+    },
+    {
+      "file": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Supplementary_Figure_S1.pdf",
+      "embedded_raster_count": 0
+    }
+  ],
+  "render_qa": {
+    "soffice_available": false,
+    "status": "skipped_no_soffice",
+    "note": "DOCX source is final; PDF should be generated by Word or the Frontiers submission system."
+  },
+  "upload_contents": {
+    "main_figures": 5,
+    "formal_supplementary_figures": 1,
+    "supplementary_tables_zip": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Supplementary_Tables_S1_to_S22_CSV.zip"
+  },
+  "upload_manifest": {
+    "output": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/FI_V26_frontiers_upload_manifest_sha256.csv",
+    "rows": 29,
+    "sha256": "ba05a9aabdeceb8478e684d83101527592d75218830266c4fdd7fcf7a5124e80"
+  },
+  "manifest": {
+    "output": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/FI_V26_final_submission_manifest_sha256.csv",
+    "rows": 64,
+    "sha256": "8e44e84ddc74f5b6320a336ecd746d74d11b232d883d7b236a9fd504a2ad57aa"
+  },
+  "zip": {
+    "zip": "FI_V26_final_submission_20260626.zip",
+    "sha256": "48c8f68322b96353dcd8dfad955bd584bc6f89ac2dfaf07adeabc03a2098e95e",
+    "entry_count": 64,
+    "testzip_passed": true
+  }
+}

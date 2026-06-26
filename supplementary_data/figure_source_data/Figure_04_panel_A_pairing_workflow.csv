@@ -1,0 +1,5 @@
+step,display_value
+RNA-seq logCPM,public COMBAT whole-blood RNA matrix
+strict event-QC CyTOF,strict event-QC cytometry summaries
+129 matched biological rows,RNA-CyTOF matched rows
+40 sepsis-only rows from 34 participants,sepsis-only paired analysis set

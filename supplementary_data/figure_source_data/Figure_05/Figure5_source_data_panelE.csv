@@ -1,4 +1,0 @@
-panel,rna_metric,metric_label,spearman_rs,bootstrap_ci_low,bootstrap_ci_high,permutation_p,association_class
-E,mhcii_cd74_axis,MHC-II/CD74,-0.5165103189493434,-0.7118308818551712,-0.2398837160787421,0.0010998900109989,Negative RNA axis
-E,hla_dr_core,HLA-DR core,-0.5590994371482176,-0.7455206484978084,-0.2959195242266145,3.999600039996e-4,Negative RNA axis
-E,rna_decoupling_index_six_minus_mhcii,RNA decoupling index,0.4622889305816136,0.1740196740919383,0.6845174623218864,0.0034996500349965,Positive RNA index

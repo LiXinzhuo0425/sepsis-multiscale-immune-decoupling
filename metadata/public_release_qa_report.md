@@ -1,12 +1,15 @@
 # Public Release QA Report
 
-Status: PASS
-Release version: v0.1.3
-Zenodo version DOI: 10.5281/zenodo.20794161
-File count: 207
-Release size bytes: 53063357
-Text scan hits: 0
-Forbidden path hits: 0
-Large files over 50 MB: 0
+Date: 2026-06-26
 
-The detailed machine-readable report is `metadata/public_release_qa_report.json`.
+Release version: v0.1.4
+
+Zenodo version DOI: pending GitHub release archive
+
+Previous Zenodo version DOI: 10.5281/zenodo.20794161
+
+Authors: Xinzhuo Li; Yi Gong
+
+Corresponding author: Yi Gong
+
+Final submission QA passed: True

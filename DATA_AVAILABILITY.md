@@ -1,20 +1,11 @@
 # Data Availability
 
-This release contains derived aggregate tables, final figures, source-data
-indices, source mappings, and reproducibility metadata from public or read-only
-audited inputs.
+Code, derived aggregate tables, figure files, and reproducibility metadata supporting this study are available in this public repository:
 
-No MIMIC-IV, eICU, restricted ICU EHR records, protected health information, new
-human samples, or wet-lab experiments were used. Any future restricted ICU EHR
-analysis would require independent authorization, data-use agreement compliance,
-local-only storage, and separate reporting.
+GitHub repository: https://github.com/LiXinzhuo0425/sepsis-multiscale-immune-decoupling
 
-Primary public bulk transcriptomic cohorts are GSE154918, GSE134347, GSE65682,
-GSE32707, GSE69063, GSE28750, and GSE54514. Dataset-level evidence tiers and
-claim boundaries are summarized in
-`supplementary_data/csv/S1_main_full_dataset_inventory.csv` and the repository
-audit tables under `supplementary_data/repository_audit_files/`.
+Zenodo concept DOI: https://doi.org/10.5281/zenodo.20682073
 
-Final figure source-data tables and attribution/source mapping files are
-available under `supplementary_data/figure_source_data/`. Figure-export QA and
-checksum summaries are available under `metadata/final_figure_submission_qa/`.
+Zenodo version DOI for `v0.1.4`: pending Zenodo DOI after GitHub release archive
+
+The prior archived version was https://doi.org/10.5281/zenodo.20794161. Public source datasets and accessions are listed in Supplementary Table S1. No restricted ICU EHR data, MIMIC-IV/eICU records, protected health information, or newly collected human samples are included in this repository.

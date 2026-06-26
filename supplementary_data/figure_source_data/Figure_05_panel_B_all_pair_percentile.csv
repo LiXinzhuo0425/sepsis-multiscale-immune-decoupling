@@ -1,0 +1,4 @@
+rna_metric,cd3_cd14_rho,absolute_rho_percentile,n_marker_pairs
+hla_dr_core,-0.3065666041275797,65.07936507936508,378
+mhcii_cd74_axis,-0.3015009380863039,62.43386243386243,378
+rna_decoupling_index_six_minus_mhcii,0.3028142589118199,61.64021164021164,378

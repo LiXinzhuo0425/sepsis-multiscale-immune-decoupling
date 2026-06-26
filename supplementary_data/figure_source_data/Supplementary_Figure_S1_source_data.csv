@@ -1,0 +1,14 @@
+panel,box,display_text
+S1,RNA layer,"host-response / S100 high
+MHC-II / CD74 / HLA-DR low
+continuous immune-decoupling gradient"
+S1,Paired association,"COMBAT sepsis-only paired rows
+representative co-event summary
+matched RNA-CyTOF links"
+S1,Cytometry context,"raw-FCS all-pair background
+marker-state summaries
+matched control pairs"
+S1,Interpretation scope,"public-data immune-state map
+representative cytometry-derived summary
+pair-level specificity remains unresolved
+prospective paired sampling needed before clinical translation"

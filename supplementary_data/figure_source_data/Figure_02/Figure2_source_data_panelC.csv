@@ -1,3 +1,0 @@
-pair,target_axis,all_cohort_median_rho,leave_one_min_median_rho,leave_one_max_median_rho,n_leave_one_removals,n_retained_per_leave_one,direction_preserved_all_leave_one,axis_y,retained_label,range_label
-six_vs_hladr,HLA-DR,-0.587394957983193,-0.6012992889463475,-0.5270718995562824,7,6,TRUE,1,n retained=6,range: -0.60 to -0.53
-six_vs_mhcii,MHC-II/CD74,-0.599439775910364,-0.6125253178194355,-0.5493032212885155,7,6,TRUE,2,n retained=6,range: -0.61 to -0.55

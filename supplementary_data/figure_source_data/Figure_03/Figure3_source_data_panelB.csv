@@ -1,9 +1,0 @@
-gradient,feature,feature_label,rho,p_value,n,bh_fdr,direction
-PC1_immune_decoupling_gradient,six_gene_panel,Six-gene panel,0.8437799937223843,1.991734579613255e-136,499,1.3942142057292783e-135,positive
-PC1_immune_decoupling_gradient,myeloid_inflammatory,Myeloid inflammation,0.7826451940024627,2.1658005455940303e-104,499,3.790150954789553e-104,positive
-PC1_immune_decoupling_gradient,immunometabolic_stress,Immunometabolic stress,0.7911181398942463,3.560291389656469e-108,499,1.2461019863797639e-107,positive
-PC1_immune_decoupling_gradient,mhcii_cd74_axis,MHC-II/CD74,-0.7836038341743727,8.242695580926425e-105,499,1.9232956355494998e-104,negative
-PC1_immune_decoupling_gradient,hla_dr_core,HLA-DR,-0.7459489581572785,8.868401324895102e-90,499,1.2415761854853144e-89,negative
-PC1_immune_decoupling_gradient,interferon_antigen_presentation,"IFN / antigen-
-presentation context",-0.5488356954873601,1.3508742855257854e-40,499,1.3508742855257854e-40,negative
-PC1_immune_decoupling_gradient,adaptive_t_cell_context,Adaptive/T-cell context,-0.7046937247989955,4.2810090118906175e-76,499,4.9945105138723877e-76,negative

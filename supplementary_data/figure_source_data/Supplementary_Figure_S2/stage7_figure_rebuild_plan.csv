@@ -1,7 +1,0 @@
-figure,title,status,source_data
-Figure 1,Study design and claim boundary,planned_after_stage7,stage7_dataset_audit_master_table.csv; stage7_claim_boundary_matrix.csv
-Figure 2,Public bulk RNA inflammatory / MHC-II decoupling,source_data_ready,stage7_bulk_leave_one_cohort_sensitivity.csv; stage7_bulk_random_signature_null_summary.csv
-Figure 3,Case-only computational immune states,source_data_ready,stage7_case_only_kmeans_k2_to_k5_quality.csv; stage7_case_only_clustering_stability_summary.csv
-Figure 4,Residual CD3/CD14 co-event state remodeling,source_data_ready,stage7_cytometry_artifact_control_summary.csv; stage7_coevent_frequency_vs_state_summary.csv
-Figure 5,COMBAT paired RNA-CyTOF bridge,source_data_ready,stage7_combat_pairing_flow_source_data.csv; stage7_combat_sepsis_paired_robustness.csv
-Figure 6,Bounded clinical anchor and final model,source_data_ready,stage7_clinical_anchor_map.csv; stage7_claim_boundary_matrix.csv

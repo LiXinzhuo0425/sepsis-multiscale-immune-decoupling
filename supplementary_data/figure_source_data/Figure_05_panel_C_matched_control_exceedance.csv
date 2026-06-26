@@ -1,0 +1,4 @@
+rna_metric,matched_controls_equal_or_stronger,n_controls,cd3_cd14_abs_rho
+hla_dr_core,4,12,0.3065666041275797
+mhcii_cd74_axis,5,12,0.3015009380863039
+rna_decoupling_index_six_minus_mhcii,4,12,0.3028142589118199

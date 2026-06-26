@@ -1,4 +1,0 @@
-analysis_scope,cluster_unit,rna_metric,flow_metric,n_participants,n_rows,n_bootstrap,observed_spearman_rho,cluster_bootstrap_rho_q025,cluster_bootstrap_rho_median,cluster_bootstrap_rho_q975,direction_consistent_fraction,claim_boundary
-sepsis_only,COMBAT_ID,hla_dr_core,cd3_cd14_abundance_normalized,34,40,5000,-0.5590994371482176,-0.7559031718547311,-0.5604278109000422,-0.2774175202125023,1.0,participant-cluster bootstrap sensitivity; association only
-sepsis_only,COMBAT_ID,mhcii_cd74_axis,cd3_cd14_abundance_normalized,34,40,5000,-0.5165103189493433,-0.739531021962517,-0.5170139437339252,-0.2025508571070275,0.9988,participant-cluster bootstrap sensitivity; association only
-sepsis_only,COMBAT_ID,rna_decoupling_index_six_minus_mhcii,cd3_cd14_abundance_normalized,34,40,5000,0.4622889305816135,0.1233893087740036,0.4610674545549986,0.7111297540201371,0.9968,participant-cluster bootstrap sensitivity; association only

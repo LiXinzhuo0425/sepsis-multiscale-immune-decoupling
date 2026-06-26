@@ -1,0 +1,3 @@
+run_type,n_runs,ari_median,ari_q025,ari_q975,total_withinss_median,claim_boundary
+bootstrap_centroid_assign_all,100,0.6816777142109749,0.27984892026637015,0.9737476543520986,1875.5700009466293,stability support for manuscript state labels; not clinical validation
+seed_full_data,100,1.0,0.982451917950581,1.0,1849.7510307600692,stability support for manuscript state labels; not clinical validation

@@ -2,19 +2,14 @@
 
 ## GitHub
 
-- Suggested repository name: `sepsis-multiscale-immune-decoupling`
-- Suggested visibility before manuscript submission: public after final review
-- Suggested release tag: `v0.1.3`
-- Upload contents from this release directory, not the whole working project.
-- Do not upload `01_data/raw/`, `01_data/cache/`, `05_manuscript/` internal
-  submission packages, local logs, or restricted-access notes.
+- Repository: `https://github.com/LiXinzhuo0425/sepsis-multiscale-immune-decoupling`
+- Release tag: `v0.1.4`
+- Authors synchronized in `.zenodo.json` and `CITATION.cff`: Xinzhuo Li; Yi Gong.
+- Final public figure set: main Figures 1-5 and Supplementary Figure S1.
 
 ## Zenodo
 
-- Suggested upload type: Software
-- Suggested version: `v0.1.3`
-- Suggested title: `Public-data multiscale immune decoupling analysis in sepsis`
+- Version: `v0.1.4`
+- Previous version DOI: `https://doi.org/10.5281/zenodo.20794161`
+- New version DOI: `pending Zenodo DOI after GitHub release archive`
 - Use `.zenodo.json` as the metadata starting point.
-- Fill in author affiliation before publishing.
-- After publication, replace `PUBLIC_REPOSITORY_URL_OR_DOI` in
-  `metadata/manuscript_data_availability_insert.md` and in the manuscript.

@@ -1,12 +1,15 @@
 {
-  "date": "2026-06-22",
-  "release_version": "v0.1.3",
-  "zenodo_version_doi": "10.5281/zenodo.20794161",
-  "journal_neutral_public_metadata": true,
-  "file_count": 207,
-  "release_size_bytes": 53063357,
-  "text_scan_hits": [],
-  "forbidden_path_hits": [],
-  "large_files_over_50mb": [],
-  "manifest_sha256": "8fdf026cd2a0e96df22db6e23fe305d5e10ee9c682f3dceac7ce59ab214b46ed"
+  "date": "2026-06-26",
+  "release_version": "v0.1.4",
+  "zenodo_version_doi": null,
+  "zenodo_doi_status": "pending_github_release_to_zenodo_archive",
+  "previous_zenodo_version_doi": "10.5281/zenodo.20794161",
+  "authors": [
+    "Xinzhuo Li",
+    "Yi Gong"
+  ],
+  "corresponding_author": "Yi Gong",
+  "final_submission_package": "FI_V26_final_submission_20260626.zip",
+  "final_submission_qa": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/FI_V26_final_submission_QA_20260626.json",
+  "source_qa_passed": true
 }

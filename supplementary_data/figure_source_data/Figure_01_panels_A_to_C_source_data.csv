@@ -1,0 +1,28 @@
+panel,panel_title,display_item
+A,Public data layers,"Public bulk RNA cohorts | 7 cohorts
+660 samples
+499 sepsis cases"
+A,Public data layers,"Case-only immune spectrum | 499 complete sepsis cases
+continuous gradient
+descriptive k = 3 grouping"
+A,Public data layers,"COMBAT paired RNA-CyTOF | 129 matched rows
+40 sepsis-only rows
+34 participants"
+A,Public data layers,"Raw-FCS sensitivity | 40 matched sepsis rows
+all-pair marker context
+matched control pairs"
+A,Public data layers,"Single-cell and pathway context | donor-level monocyte/MNP context
+ranked pathway enrichment
+exploratory Death28 anchor"
+B,Core biological contrast,Inflammatory / host-response high
+B,Core biological contrast,Antigen-presentation low
+C,Discovery sequence,"Cross-cohort
+RNA recurrence"
+C,Discovery sequence,"Continuous
+case-only spectrum"
+C,Discovery sequence,"Paired COMBAT
+association"
+C,Discovery sequence,"Raw-FCS marker-pair
+refinement"
+C,Discovery sequence,"Cellular and
+pathway context"

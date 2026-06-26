@@ -1,8 +1,1 @@
-# Supplementary Data Package
-
-Formal Supplementary Tables are S1-S22. Repository audit files are stored
-separately under `repository_audit_files/` and are not formal supplementary
-tables.
-
-This public copy is journal-neutral and contains no internal DOI-pending
-submission package files.
+Formal Supplementary Tables S1-S22 are provided as editable CSV files in `csv/` and as a consolidated ZIP archive. Figure source-data tables for final main Figures 1-5 and Supplementary Figure S1 are stored in `figure_source_data/`.

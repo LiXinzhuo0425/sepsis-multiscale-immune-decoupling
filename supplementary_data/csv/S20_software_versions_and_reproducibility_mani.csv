@@ -1,0 +1,8 @@
+item,version_or_path,role,note
+Python,3.9.6,document and package build,local runtime used for final V26 submission package generation
+python-docx,installed local package,DOCX editing,"used to revise manuscript, supplementary index and advisor DOCX"
+matplotlib,installed local package,scripted figure generation,used for Figure 1 and Supplementary Figure S1 SVG output
+Pillow,installed local package,image QA and TIFF export,used for 600 dpi TIFF conversion and nonblank checks
+Inkscape,/opt/homebrew/bin/inkscape,SVG to PNG export,used when available for deterministic figure export
+V23 source package,11_FI_PREFLIGHT_DISCOVERY_REVISION_20260625,read-only input,used as text and figure source for V24 presentation revision
+Generative image tools,not used for final figures,AI image policy,final scientific figures were deterministic scripted or copied outputs
