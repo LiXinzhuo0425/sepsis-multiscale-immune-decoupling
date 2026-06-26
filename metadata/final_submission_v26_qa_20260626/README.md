@@ -7,9 +7,11 @@ This directory is the final Frontiers in Immunology submission package generated
 - Main manuscript DOCX: `Frontiers_Immunology_V26_FI_FINAL_SUBMISSION_MAIN_TEXT.docx`
 - Main manuscript PDF: `Frontiers_Immunology_V26_FI_FINAL_SUBMISSION_MAIN_TEXT.pdf`
 - Supplementary materials index DOCX: `Frontiers_Immunology_V26_FI_FINAL_SUPPLEMENTARY_MATERIALS_INDEX_ONLY.docx`
-- Main figures: `Figure_01` to `Figure_05` in SVG, PDF, TIFF, and PNG
-- Formal supplementary figure: `Supplementary_Figure_S1` in SVG, PDF, TIFF, and PNG
+- Main figures for Frontiers upload: `Figure_01.tiff` to `Figure_05.tiff` (RGB TIFF, 600 dpi)
+- Formal supplementary figure for Frontiers upload: `Supplementary_Figure_S1.tiff` (RGB TIFF, 600 dpi)
 - Supplementary tables: `Supplementary_Tables_S1_to_S22_CSV.zip`
+
+Editable/vector/archive figure formats are retained under `03_source_data/formal_figure_exports_all_formats`; they are not the primary Frontiers upload files.
 
 ## Authorship
 
