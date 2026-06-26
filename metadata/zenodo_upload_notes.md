@@ -2,14 +2,14 @@
 
 Recommended Zenodo record type: Software
 
-Recommended version: `v0.1.4`
+Recommended version: `v0.1.5`
 
-GitHub release tag: `v0.1.4`
+GitHub release tag: `v0.1.5`
 
 Previous Zenodo version DOI, superseded by this release:
-https://doi.org/10.5281/zenodo.20794161
+https://doi.org/10.5281/zenodo.20911494
 
 New Zenodo version DOI:
-https://doi.org/10.5281/zenodo.20911494
+pending Zenodo archive of GitHub release `v0.1.5`
 
 Use `.zenodo.json` as the metadata source. Zenodo prioritizes `.zenodo.json` over `CITATION.cff` when both are present.

@@ -1,7 +1,7 @@
 {
   "title": "Public-data multiscale immune decoupling analysis in sepsis",
   "upload_type": "software",
-  "description": "Journal-neutral code, derived supplementary tables, final figure source files, and reproducibility metadata for a public-data computational analysis of multiscale immune-state decoupling in sepsis. Version v0.1.4 synchronizes the public reproducibility record with the final Frontiers in Immunology submission package, two-author metadata, five main figures, one formal supplementary figure, source-data tables, and final QA manifests.",
+  "description": "Journal-neutral code, derived supplementary tables, final figure source files, and reproducibility metadata for a public-data computational analysis of multiscale immune-state decoupling in sepsis. Version v0.1.5 synchronizes the public reproducibility record with the final Frontiers in Immunology submission package, two-author metadata, five main figures, one formal supplementary figure, source-data tables, and final QA manifests.",
   "creators": [
     {
       "name": "Li, Xinzhuo",
@@ -23,7 +23,7 @@
   ],
   "related_identifiers": [
     {
-      "identifier": "10.5281/zenodo.20794161",
+      "identifier": "10.5281/zenodo.20911494",
       "relation": "isNewVersionOf",
       "scheme": "doi"
     },
@@ -33,6 +33,6 @@
       "scheme": "url"
     }
   ],
-  "version": "v0.1.4",
+  "version": "v0.1.5",
   "access_right": "open"
 }

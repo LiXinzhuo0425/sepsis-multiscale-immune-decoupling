@@ -2,11 +2,11 @@
 
 Date: 2026-06-26
 
-Release version: v0.1.4
+Release version: v0.1.5
 
-Zenodo version DOI: 10.5281/zenodo.20911494
+Zenodo version DOI: pending Zenodo archive of GitHub release v0.1.5
 
-Previous Zenodo version DOI: 10.5281/zenodo.20794161
+Previous Zenodo version DOI: 10.5281/zenodo.20911494
 
 Authors: Xinzhuo Li; Yi Gong
 
