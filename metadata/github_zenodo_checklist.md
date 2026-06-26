@@ -11,5 +11,5 @@
 
 - Version: `v0.1.5`
 - Previous version DOI: `https://doi.org/10.5281/zenodo.20911494`
-- New version DOI: pending Zenodo archive of GitHub release `v0.1.5`
+- New version DOI: `https://doi.org/10.5281/zenodo.20932860`
 - Use `.zenodo.json` as the metadata starting point.

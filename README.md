@@ -8,8 +8,7 @@ This repository contains journal-neutral code, derived tables, final figure sour
 - Authors: Xinzhuo Li and Yi Gong
 - Corresponding author in the manuscript: Yi Gong
 - GitHub repository: https://github.com/LiXinzhuo0425/sepsis-multiscale-immune-decoupling
-- Zenodo record: pending Zenodo archive of GitHub release `v0.1.5`
-- Previous Zenodo version DOI: https://doi.org/10.5281/zenodo.20911494
+- Zenodo record: https://doi.org/10.5281/zenodo.20932860
 
 ## Scope
 

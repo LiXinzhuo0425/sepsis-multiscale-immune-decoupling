@@ -4,7 +4,7 @@ Date: 2026-06-26
 
 Release version: v0.1.5
 
-Zenodo version DOI: pending Zenodo archive of GitHub release v0.1.5
+Zenodo version DOI: 10.5281/zenodo.20932860
 
 Previous Zenodo version DOI: 10.5281/zenodo.20911494
 

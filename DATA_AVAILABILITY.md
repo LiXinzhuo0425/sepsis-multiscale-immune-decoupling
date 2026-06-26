@@ -6,6 +6,6 @@ GitHub repository: https://github.com/LiXinzhuo0425/sepsis-multiscale-immune-dec
 
 Zenodo concept DOI: https://doi.org/10.5281/zenodo.20682073
 
-Zenodo version DOI for `v0.1.5`: pending Zenodo archive of GitHub release `v0.1.5`
+Zenodo version DOI for `v0.1.5`: https://doi.org/10.5281/zenodo.20932860
 
 The prior archived version was https://doi.org/10.5281/zenodo.20911494. Public source datasets and accessions are listed in Supplementary Table S1. No restricted ICU EHR data, MIMIC-IV/eICU records, protected health information, or newly collected human samples are included in this repository.
