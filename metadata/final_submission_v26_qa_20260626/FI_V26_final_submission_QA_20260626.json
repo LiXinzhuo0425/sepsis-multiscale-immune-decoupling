@@ -211,8 +211,9 @@
         "archive_pdf": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_01.pdf",
         "archive_png": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_01.png",
         "upload_tiff": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_01.tiff",
-        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10392): WARNING **: 22:10:53.887: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
-        "png_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10393): WARNING **: 22:10:54.321: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf"
+        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:12840): WARNING **: 22:22:13.805: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
+        "png_render_engine": "Chrome headless from the byte-identical SVG",
+        "png_export_stderr": "592693 bytes written to file /Users/felix/Documents/Sepsis_Causal_MultiOmics_20260611/14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_01.png"
       },
       {
         "figure_id": "Figure_02",
@@ -232,8 +233,9 @@
         "archive_pdf": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_02.pdf",
         "archive_png": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_02.png",
         "upload_tiff": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_02.tiff",
-        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10396): WARNING **: 22:10:59.891: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
-        "png_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10397): WARNING **: 22:11:00.430: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf"
+        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:12863): WARNING **: 22:22:17.668: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
+        "png_render_engine": "Chrome headless from the byte-identical SVG",
+        "png_export_stderr": "[12869:26571499:0626/222220.024868:ERROR:net/socket/ssl_client_socket_impl.cc:924] handshake failed; returned -1, SSL error code 1, net_error -101\n[12869:26571499:0626/222220.324129:ERROR:net/socket/ssl_client_socket_impl.cc:924] handshake failed; returned -1, SSL error code 1, net_error -101\n704408 bytes written to file /Users/felix/Documents/Sepsis_Causal_MultiOmics_20260611/14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_02.png"
       },
       {
         "figure_id": "Figure_03",
@@ -253,8 +255,9 @@
         "archive_pdf": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_03.pdf",
         "archive_png": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_03.png",
         "upload_tiff": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_03.tiff",
-        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10398): WARNING **: 22:11:01.518: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
-        "png_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10399): WARNING **: 22:11:02.687: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf"
+        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:12885): WARNING **: 22:22:21.287: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
+        "png_render_engine": "Chrome headless from the byte-identical SVG",
+        "png_export_stderr": "676174 bytes written to file /Users/felix/Documents/Sepsis_Causal_MultiOmics_20260611/14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_03.png"
       },
       {
         "figure_id": "Figure_04",
@@ -274,8 +277,9 @@
         "archive_pdf": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_04.pdf",
         "archive_png": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_04.png",
         "upload_tiff": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_04.tiff",
-        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10401): WARNING **: 22:11:04.041: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
-        "png_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10402): WARNING **: 22:11:04.564: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf"
+        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:12908): WARNING **: 22:22:25.542: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
+        "png_render_engine": "Chrome headless from the byte-identical SVG",
+        "png_export_stderr": "830236 bytes written to file /Users/felix/Documents/Sepsis_Causal_MultiOmics_20260611/14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_04.png"
       },
       {
         "figure_id": "Figure_05",
@@ -295,8 +299,9 @@
         "archive_pdf": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_05.pdf",
         "archive_png": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_05.png",
         "upload_tiff": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_05.tiff",
-        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10403): WARNING **: 22:11:05.859: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
-        "png_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10404): WARNING **: 22:11:06.240: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf"
+        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:12929): WARNING **: 22:22:29.284: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
+        "png_render_engine": "Chrome headless from the byte-identical SVG",
+        "png_export_stderr": "519400 bytes written to file /Users/felix/Documents/Sepsis_Causal_MultiOmics_20260611/14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_05.png"
       },
       {
         "figure_id": "Supplementary_Figure_S1",
@@ -316,8 +321,9 @@
         "archive_pdf": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Supplementary_Figure_S1.pdf",
         "archive_png": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Supplementary_Figure_S1.png",
         "upload_tiff": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Supplementary_Figure_S1.tiff",
-        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10405): WARNING **: 22:11:07.195: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
-        "png_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10406): WARNING **: 22:11:07.479: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf"
+        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:12949): WARNING **: 22:22:33.345: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
+        "png_render_engine": "Chrome headless from the byte-identical SVG",
+        "png_export_stderr": "267467 bytes written to file /Users/felix/Documents/Sepsis_Causal_MultiOmics_20260611/14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Supplementary_Figure_S1.png"
       }
     ],
     "render_contact_sheet": {
@@ -328,48 +334,48 @@
           "width_px": 4320,
           "height_px": 3540,
           "nonblank": true,
-          "mean_luma": 248.3563,
-          "std_luma": 31.4375
+          "mean_luma": 247.1673,
+          "std_luma": 34.7973
         },
         {
           "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_02.png",
           "width_px": 4320,
           "height_px": 4080,
           "nonblank": true,
-          "mean_luma": 242.2123,
-          "std_luma": 41.5696
+          "mean_luma": 241.6239,
+          "std_luma": 43.0134
         },
         {
           "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_03.png",
           "width_px": 4320,
           "height_px": 4080,
           "nonblank": true,
-          "mean_luma": 239.7929,
-          "std_luma": 47.0051
+          "mean_luma": 239.2501,
+          "std_luma": 48.152
         },
         {
           "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_04.png",
           "width_px": 4440,
           "height_px": 5280,
           "nonblank": true,
-          "mean_luma": 248.5119,
-          "std_luma": 33.6652
+          "mean_luma": 247.8853,
+          "std_luma": 35.5497
         },
         {
           "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_05.png",
           "width_px": 4320,
           "height_px": 3840,
           "nonblank": true,
-          "mean_luma": 229.9787,
-          "std_luma": 52.9468
+          "mean_luma": 229.491,
+          "std_luma": 53.7593
         },
         {
           "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Supplementary_Figure_S1.png",
           "width_px": 4320,
           "height_px": 2520,
           "nonblank": true,
-          "mean_luma": 249.9799,
-          "std_luma": 28.0292
+          "mean_luma": 249.83,
+          "std_luma": 28.6094
         }
       ],
       "passed": true
@@ -655,16 +661,16 @@
   "upload_manifest": {
     "output": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/FI_V26_frontiers_upload_manifest_sha256.csv",
     "rows": 10,
-    "sha256": "8a5507d747241cb18303fa1647e7814dc5862d98509585e40974026b38113ca6"
+    "sha256": "b7e1faaf375911ef678aab81ed114ce687dfd05260bceb82fd77110f0fbdade3"
   },
   "manifest": {
     "output": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/FI_V26_final_submission_manifest_sha256.csv",
     "rows": 78,
-    "sha256": "494a47cbec54a9a00390bba29290dfab3d9dc069ac7cb756fe28d32cd32d6fa5"
+    "sha256": "8304afdce4c07b7555fa640136db67dec3953e3dd563771dca0325ba50641080"
   },
   "zip": {
     "zip": "FI_V26_final_submission_20260626.zip",
-    "sha256": "5a1157959cd5a0d7fa54163fc5667a781bd807aa3f711f3c3ccef1c241913244",
+    "sha256": "1d0bf54ea7ece358900212bbc84b92ad8c0cd48f6f31d694ad62913d62f840f1",
     "entry_count": 78,
     "testzip_passed": true
   }
