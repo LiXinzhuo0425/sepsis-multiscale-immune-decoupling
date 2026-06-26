@@ -189,6 +189,192 @@
     },
     "passed": true
   },
+  "user_modified_svg_sources": {
+    "source_directory": "14_FI_FINAL_SUBMISSION_20260626 2/01_upload_ready",
+    "all_svg_exact_copies": true,
+    "exports": [
+      {
+        "figure_id": "Figure_01",
+        "source_svg": "14_FI_FINAL_SUBMISSION_20260626 2/01_upload_ready/Figure_01.svg",
+        "archive_svg": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_01.svg",
+        "source_svg_sha256": "d7fa690dd1ab31ae35e73155e6a2ad36c6d81f2884323ff531a46119e27a4ce4",
+        "archive_svg_sha256": "d7fa690dd1ab31ae35e73155e6a2ad36c6d81f2884323ff531a46119e27a4ce4",
+        "svg_exact_copy": true,
+        "viewbox_points": [
+          518.4,
+          424.8
+        ],
+        "expected_pixels_at_600_dpi": [
+          4320,
+          3540
+        ],
+        "archive_pdf": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_01.pdf",
+        "archive_png": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_01.png",
+        "upload_tiff": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_01.tiff",
+        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10392): WARNING **: 22:10:53.887: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
+        "png_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10393): WARNING **: 22:10:54.321: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf"
+      },
+      {
+        "figure_id": "Figure_02",
+        "source_svg": "14_FI_FINAL_SUBMISSION_20260626 2/01_upload_ready/Figure_02.svg",
+        "archive_svg": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_02.svg",
+        "source_svg_sha256": "e6f51a0e0e8e47b9ffc2ac0dba87f8a469c883b0df0713e21605267d8505ee7c",
+        "archive_svg_sha256": "e6f51a0e0e8e47b9ffc2ac0dba87f8a469c883b0df0713e21605267d8505ee7c",
+        "svg_exact_copy": true,
+        "viewbox_points": [
+          518.4,
+          489.6
+        ],
+        "expected_pixels_at_600_dpi": [
+          4320,
+          4080
+        ],
+        "archive_pdf": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_02.pdf",
+        "archive_png": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_02.png",
+        "upload_tiff": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_02.tiff",
+        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10396): WARNING **: 22:10:59.891: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
+        "png_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10397): WARNING **: 22:11:00.430: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf"
+      },
+      {
+        "figure_id": "Figure_03",
+        "source_svg": "14_FI_FINAL_SUBMISSION_20260626 2/01_upload_ready/Figure_03.svg",
+        "archive_svg": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_03.svg",
+        "source_svg_sha256": "157db2b6e947a97f07cd73b8b1918029995c4e3ee83e92bd4ac7fede6f0733de",
+        "archive_svg_sha256": "157db2b6e947a97f07cd73b8b1918029995c4e3ee83e92bd4ac7fede6f0733de",
+        "svg_exact_copy": true,
+        "viewbox_points": [
+          518.4,
+          489.6
+        ],
+        "expected_pixels_at_600_dpi": [
+          4320,
+          4080
+        ],
+        "archive_pdf": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_03.pdf",
+        "archive_png": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_03.png",
+        "upload_tiff": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_03.tiff",
+        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10398): WARNING **: 22:11:01.518: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
+        "png_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10399): WARNING **: 22:11:02.687: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf"
+      },
+      {
+        "figure_id": "Figure_04",
+        "source_svg": "14_FI_FINAL_SUBMISSION_20260626 2/01_upload_ready/Figure_04.svg",
+        "archive_svg": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_04.svg",
+        "source_svg_sha256": "00b7c329af958e765f73b96d7c72ed81d1da85bed4d6cf56b9561b3e70628f09",
+        "archive_svg_sha256": "00b7c329af958e765f73b96d7c72ed81d1da85bed4d6cf56b9561b3e70628f09",
+        "svg_exact_copy": true,
+        "viewbox_points": [
+          532.8,
+          633.6
+        ],
+        "expected_pixels_at_600_dpi": [
+          4440,
+          5280
+        ],
+        "archive_pdf": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_04.pdf",
+        "archive_png": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_04.png",
+        "upload_tiff": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_04.tiff",
+        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10401): WARNING **: 22:11:04.041: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
+        "png_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10402): WARNING **: 22:11:04.564: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf"
+      },
+      {
+        "figure_id": "Figure_05",
+        "source_svg": "14_FI_FINAL_SUBMISSION_20260626 2/01_upload_ready/Figure_05.svg",
+        "archive_svg": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_05.svg",
+        "source_svg_sha256": "81a4c8c44f07f7530a37e436fd5a7a434249ae8f234c14c837b20578e8400b4d",
+        "archive_svg_sha256": "81a4c8c44f07f7530a37e436fd5a7a434249ae8f234c14c837b20578e8400b4d",
+        "svg_exact_copy": true,
+        "viewbox_points": [
+          518.4,
+          460.8
+        ],
+        "expected_pixels_at_600_dpi": [
+          4320,
+          3840
+        ],
+        "archive_pdf": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_05.pdf",
+        "archive_png": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_05.png",
+        "upload_tiff": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Figure_05.tiff",
+        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10403): WARNING **: 22:11:05.859: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
+        "png_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10404): WARNING **: 22:11:06.240: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf"
+      },
+      {
+        "figure_id": "Supplementary_Figure_S1",
+        "source_svg": "14_FI_FINAL_SUBMISSION_20260626 2/01_upload_ready/Supplementary_Figure_S1.svg",
+        "archive_svg": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Supplementary_Figure_S1.svg",
+        "source_svg_sha256": "e248ae56f1ea30029c5a3d8b6a7e254ced32b8fd9558fcb26c855eb2f807fd74",
+        "archive_svg_sha256": "e248ae56f1ea30029c5a3d8b6a7e254ced32b8fd9558fcb26c855eb2f807fd74",
+        "svg_exact_copy": true,
+        "viewbox_points": [
+          518.4,
+          302.4
+        ],
+        "expected_pixels_at_600_dpi": [
+          4320,
+          2520
+        ],
+        "archive_pdf": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Supplementary_Figure_S1.pdf",
+        "archive_png": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Supplementary_Figure_S1.png",
+        "upload_tiff": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Supplementary_Figure_S1.tiff",
+        "pdf_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10405): WARNING **: 22:11:07.195: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf\nWARNING: unknown type: svg:foreignObject\nWARNING: unknown type: i:aipgf",
+        "png_export_stderr": "WARNING: unknown type: svg:foreignObject\n\n** (org.inkscape.Inkscape:10406): WARNING **: 22:11:07.479: attribute 'clip-path' given as CSS\nWARNING: unknown type: i:aipgf"
+      }
+    ],
+    "render_contact_sheet": {
+      "contact_sheet": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/modified_svg_render_QA/modified_svg_render_contact_sheet.png",
+      "figures": [
+        {
+          "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_01.png",
+          "width_px": 4320,
+          "height_px": 3540,
+          "nonblank": true,
+          "mean_luma": 248.3563,
+          "std_luma": 31.4375
+        },
+        {
+          "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_02.png",
+          "width_px": 4320,
+          "height_px": 4080,
+          "nonblank": true,
+          "mean_luma": 242.2123,
+          "std_luma": 41.5696
+        },
+        {
+          "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_03.png",
+          "width_px": 4320,
+          "height_px": 4080,
+          "nonblank": true,
+          "mean_luma": 239.7929,
+          "std_luma": 47.0051
+        },
+        {
+          "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_04.png",
+          "width_px": 4440,
+          "height_px": 5280,
+          "nonblank": true,
+          "mean_luma": 248.5119,
+          "std_luma": 33.6652
+        },
+        {
+          "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_05.png",
+          "width_px": 4320,
+          "height_px": 3840,
+          "nonblank": true,
+          "mean_luma": 229.9787,
+          "std_luma": 52.9468
+        },
+        {
+          "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Supplementary_Figure_S1.png",
+          "width_px": 4320,
+          "height_px": 2520,
+          "nonblank": true,
+          "mean_luma": 249.9799,
+          "std_luma": 28.0292
+        }
+      ],
+      "passed": true
+    }
+  },
   "text_and_author_scan": {
     "passed": true,
     "removed_author_hits": [],
@@ -290,32 +476,62 @@
   "pdf_vector_qa": [
     {
       "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_01.pdf",
-      "embedded_raster_count": 0
+      "embedded_raster_count": 0,
+      "font_embedding": {
+        "checked": true,
+        "unembedded_fonts": [],
+        "passed": true
+      }
     },
     {
       "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_02.pdf",
-      "embedded_raster_count": 0
+      "embedded_raster_count": 0,
+      "font_embedding": {
+        "checked": true,
+        "unembedded_fonts": [],
+        "passed": true
+      }
     },
     {
       "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_03.pdf",
-      "embedded_raster_count": 0
+      "embedded_raster_count": 0,
+      "font_embedding": {
+        "checked": true,
+        "unembedded_fonts": [],
+        "passed": true
+      }
     },
     {
       "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_04.pdf",
-      "embedded_raster_count": 0
+      "embedded_raster_count": 0,
+      "font_embedding": {
+        "checked": true,
+        "unembedded_fonts": [],
+        "passed": true
+      }
     },
     {
       "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Figure_05.pdf",
-      "embedded_raster_count": 0
+      "embedded_raster_count": 0,
+      "font_embedding": {
+        "checked": true,
+        "unembedded_fonts": [],
+        "passed": true
+      }
     },
     {
       "file": "14_FI_FINAL_SUBMISSION_20260626/03_source_data/formal_figure_exports_all_formats/Supplementary_Figure_S1.pdf",
-      "embedded_raster_count": 0
+      "embedded_raster_count": 0,
+      "font_embedding": {
+        "checked": true,
+        "unembedded_fonts": [],
+        "passed": true
+      }
     }
   ],
   "render_qa": {
     "soffice_available": true,
-    "soffice_path": "/Applications/LibreOffice.app/Contents/MacOS/soffice",
+    "soffice_path": "/Users/felix/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/soffice",
     "status": "passed",
     "main_pdf": "14_FI_FINAL_SUBMISSION_20260626/01_upload_ready/Frontiers_Immunology_V26_FI_FINAL_SUBMISSION_MAIN_TEXT.pdf",
     "render_pdf": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/Frontiers_Immunology_V26_FI_FINAL_SUBMISSION_MAIN_TEXT.pdf",
@@ -333,8 +549,8 @@
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-01.png",
         "width_px": 1275,
         "height_px": 1650,
-        "mean_luma": 233.3327,
-        "std_luma": 62.5832,
+        "mean_luma": 233.3309,
+        "std_luma": 62.5862,
         "blank": false
       },
       {
@@ -342,7 +558,7 @@
         "width_px": 1275,
         "height_px": 1650,
         "mean_luma": 231.3822,
-        "std_luma": 65.1545,
+        "std_luma": 65.1556,
         "blank": false
       },
       {
@@ -350,7 +566,7 @@
         "width_px": 1275,
         "height_px": 1650,
         "mean_luma": 231.5502,
-        "std_luma": 64.9933,
+        "std_luma": 64.9935,
         "blank": false
       },
       {
@@ -358,7 +574,7 @@
         "width_px": 1275,
         "height_px": 1650,
         "mean_luma": 231.7394,
-        "std_luma": 65.0406,
+        "std_luma": 65.0395,
         "blank": false
       },
       {
@@ -366,7 +582,7 @@
         "width_px": 1275,
         "height_px": 1650,
         "mean_luma": 228.153,
-        "std_luma": 69.1135,
+        "std_luma": 69.1142,
         "blank": false
       },
       {
@@ -389,8 +605,8 @@
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-08.png",
         "width_px": 1275,
         "height_px": 1650,
-        "mean_luma": 235.4097,
-        "std_luma": 59.6148,
+        "mean_luma": 235.4104,
+        "std_luma": 59.6136,
         "blank": false
       },
       {
@@ -439,17 +655,17 @@
   "upload_manifest": {
     "output": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/FI_V26_frontiers_upload_manifest_sha256.csv",
     "rows": 10,
-    "sha256": "e69ad721d2c7fab14fd7fc64fcb6478c0e46492f7f297406a186c378c05de22f"
+    "sha256": "8a5507d747241cb18303fa1647e7814dc5862d98509585e40974026b38113ca6"
   },
   "manifest": {
     "output": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/FI_V26_final_submission_manifest_sha256.csv",
-    "rows": 83,
-    "sha256": "8e54bbf1aaddf3f8b947634de3e17363f3b908e8cdf330ae08b67ead476ed183"
+    "rows": 78,
+    "sha256": "494a47cbec54a9a00390bba29290dfab3d9dc069ac7cb756fe28d32cd32d6fa5"
   },
   "zip": {
     "zip": "FI_V26_final_submission_20260626.zip",
-    "sha256": "1fa75b2ae3c99a0b82b971b6562d3216b3fa943291ba0c24460508b004e56eb9",
-    "entry_count": 83,
+    "sha256": "5a1157959cd5a0d7fa54163fc5667a781bd807aa3f711f3c3ccef1c241913244",
+    "entry_count": 78,
     "testzip_passed": true
   }
 }
