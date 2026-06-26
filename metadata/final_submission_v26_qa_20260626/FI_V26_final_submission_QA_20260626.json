@@ -237,32 +237,32 @@
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-02.png",
         "width_px": 1275,
         "height_px": 1650,
-        "mean_luma": 232.0088,
-        "std_luma": 64.3404,
+        "mean_luma": 231.9524,
+        "std_luma": 64.492,
         "blank": false
       },
       {
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-03.png",
         "width_px": 1275,
         "height_px": 1650,
-        "mean_luma": 232.3983,
-        "std_luma": 63.8045,
+        "mean_luma": 232.2772,
+        "std_luma": 64.1306,
         "blank": false
       },
       {
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-04.png",
         "width_px": 1275,
         "height_px": 1650,
-        "mean_luma": 232.6454,
-        "std_luma": 63.7074,
+        "mean_luma": 232.4801,
+        "std_luma": 64.1578,
         "blank": false
       },
       {
         "file": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/main_docx_render_QA/page-05.png",
         "width_px": 1275,
         "height_px": 1650,
-        "mean_luma": 230.1302,
-        "std_luma": 65.3064,
+        "mean_luma": 228.9792,
+        "std_luma": 68.2396,
         "blank": false
       },
       {
@@ -325,16 +325,16 @@
   "upload_manifest": {
     "output": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/FI_V26_frontiers_upload_manifest_sha256.csv",
     "rows": 30,
-    "sha256": "b3e522f69e686c9f1f599e3bc6c47c078e6eb257973dbc404dc3ca853195ab8f"
+    "sha256": "346ebbc6c1c092c9a11579e1e46b6d102de0b9ba6e0b55369aa22b983e5226b8"
   },
   "manifest": {
     "output": "14_FI_FINAL_SUBMISSION_20260626/04_QA_and_manifests/FI_V26_final_submission_manifest_sha256.csv",
     "rows": 78,
-    "sha256": "12e2f21cdd9c0d16395490557aa947c2f26ace9e4c25ea0e113182fa9c640124"
+    "sha256": "e6cd69b7c2cd9f3a16262a5ae0e4af2c29ba3387d25dcb95c806767e7ea986ac"
   },
   "zip": {
     "zip": "FI_V26_final_submission_20260626.zip",
-    "sha256": "a18e2f7948fdf96e96330a555045cecf605194dd560a307ef241020dafa86f90",
+    "sha256": "f80edf8f9427637f3b8d3707c348e076d77652b788df3f15af2c94d34a2d7db3",
     "entry_count": 78,
     "testzip_passed": true
   }
